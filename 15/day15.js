@@ -72,7 +72,17 @@ function part2()
     var x, y, dist, z;
     var freq;
 
+    let fulldata = data;
+
     for( y=miny; y<=maxy; y++ ) {
+        if( (y%50) == 0 ) {
+            data = [];
+            for( i=0; i<fulldata.length; i++ ) {
+                if( Math.abs(fulldata[i].y - y) <= (fulldata[i].dist+50) ) {
+                    data.push(fulldata[i]);
+                }
+            }
+        }
         for( x=minx; x<=maxx; x++ ) {
             dist = minDist(x,y);
             if( dist <= 0 ) {
@@ -91,7 +101,7 @@ function part2()
 }
 
 let t1 = new Date();
-part1();
-//part2();
+//part1();
+part2();
 let t2 = new Date();
 console.log("Time: " + (t2-t1)/1000 + "s");
