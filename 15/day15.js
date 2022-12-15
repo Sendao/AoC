@@ -1,28 +1,21 @@
 let fs = require('fs');
 
-let lastsensor = null;
 var data;
 //data = fs.readFileSync('demo.txt', 'utf8');
-data = fs.readFileSync('data.txt', 'utf8');
-data = data.split("\n").map( (x) => ( x.split(" ").filter( (x) => ( x.indexOf("=") != -1 ) ).map( (x) => ( parseInt(x.split("=")[1]) ) ) ) );
-data = data.map( (x) => ( {x: x[0], y: x[1], bx: x[2], by: x[3], dist: Math.abs(x[3]-x[1]) + Math.abs(x[2]-x[0]) } ) );
 
 function minDist(x, y) {
     var i, dist, md = Infinity;
 
     for( i=0; i<data.length; i++ ) {
-        if( data[i].bx == x && data[i].by == y ) {
-            lastsensor = i;
-            return 0;
-        }
-        dist = Math.abs( data[i].y - y ) + Math.abs( data[i].x - x ) - data[i].dist;
-        if( dist < md ) {
-            md = dist;
-            lastsensor = i;
-        }
+        if( data[i].bx == x && data[i].by == y )
+            return i;
+        dist = data[i].dist - Math.abs( data[i].y - y );
+        if( dist < 0 ) continue;
+        if( dist < Math.abs( data[i].x - x ) ) continue;
+        return i;
     }
 
-    return md;
+    return -1;
 }
 
 function part1()
@@ -52,9 +45,9 @@ function part1()
 
     for( x=minx; x<=maxx; x++ ) {
         dist = minDist(x,y);
-        if( dist <= 0 ) {
-            z = Math.abs(data[lastsensor].y - y);
-            let newx = data[lastsensor].x + ( data[lastsensor].dist - z );
+        if( dist >= 0 ) {
+            z = Math.abs(data[dist].y - y);
+            let newx = data[dist].x + ( data[dist].dist - z );
             count += (newx - x) + 1;
             x = newx;
         }
@@ -83,17 +76,19 @@ function part2()
                 }
             }
         }
+    
         for( x=minx; x<=maxx; x++ ) {
             dist = minDist(x,y);
-            if( dist <= 0 ) {
-                z = Math.abs(data[lastsensor].y - y);
-                x = data[lastsensor].x + ( data[lastsensor].dist - z );
+            if( dist >= 0 ) {
+                z = Math.abs(data[dist].y - y);
+                x = data[dist].x + ( data[dist].dist - z );
             } else {
                 freq = maxy*x + y;
                 console.log("Frequency " + freq + " at " + x + ", " + y);
                 return;
             }
-        }
+        }        
+
     }
 
     console.log("Freq not found");
@@ -101,6 +96,9 @@ function part2()
 }
 
 let t1 = new Date();
+data = fs.readFileSync('data.txt', 'utf8');
+data = data.split("\n").map( (x) => ( x.split(" ").filter( (x) => ( x.indexOf("=") != -1 ) ).map( (x) => ( parseInt(x.split("=")[1]) ) ) ) );
+data = data.map( (x) => ( {x: x[0], y: x[1], bx: x[2], by: x[3], dist: Math.abs(x[3]-x[1]) + Math.abs(x[2]-x[0]) } ) );
 //part1();
 part2();
 let t2 = new Date();
