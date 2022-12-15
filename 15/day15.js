@@ -2,10 +2,9 @@ let fs = require('fs');
 
 function part1()
 {
-    let data = fs.readFileSync('demo.txt', 'utf8');
-    //let data = fs.readFileSync('data.txt', 'utf8');
+    //let data = fs.readFileSync('demo.txt', 'utf8');
+    let data = fs.readFileSync('data.txt', 'utf8');
     data = data.split("\n").map( (x) => ( x.split(" ").filter( (x) => ( x.indexOf("=") != -1 ) ).map( (x) => ( parseInt(x.split("=")[1]) ) ) ) );
-
     data = data.map( (x) => ( {x: x[0], y: x[1], bx: x[2], by: x[3], dist: Math.abs(x[3]-x[1]) + Math.abs(x[2]-x[0]) } ) );
 
     let maxx=0, minx=0;
@@ -45,7 +44,7 @@ function part1()
         return md;
     }
 
-    let y = 2000000;//10
+    let y = 2000000;//10 for demo
     var x, dist, z;
     var count = 0;
     let bspots = new Set();
@@ -58,7 +57,7 @@ function part1()
         }
     }
 
-    console.log("Found " + (-count) + " sensors");
+    console.log("Found " + (-count) + " beacons in the way");
 
     for( x=minx-2; x<=maxx; x++ ) {
         dist = minDist(x,y);
@@ -99,32 +98,9 @@ function part2()
     console.log("Data: " + data.length + " minx: " + minx + " maxx: " + maxx + " miny: " + miny + " maxy: " + maxy);
 
     let lastsensor = null;
-    let heurist = new Map();
 
     function minDist(x, y) {
         var i, dist, md = Infinity;
-
-        var test;
-
-        for( i=x-1; i<x+1; i++ ) {
-            if( heurist.has(i) ) {
-                test = heurist.get(i);
-                dist = Math.abs( data[test].y - y ) + Math.abs( data[test].x - x ) - data[test].dist;
-                if( dist <= 0 ) {
-                    lastsensor = test;
-                    return dist;
-                }
-            }
-        }
-        /*
-        if( lastsensor != null ) {
-            dist = Math.abs( data[lastsensor].y - y ) + Math.abs( data[lastsensor].x - x ) - data[lastsensor].dist;
-            if( dist <= 0 ) {
-                return dist;
-            }
-            md = dist;
-        }
-        */
 
         lastsensor = null;
         for( i=0; i<data.length; i++ ) {
@@ -143,19 +119,12 @@ function part2()
     }
 
     var x, y, dist, z;
-    var freq, newheurist, poolheur = new Map();
+    var freq;
 
     for( y=miny; y<=maxy; y++ ) {
-        
-        if( (y%50) == 0 ) console.log(y);
-
-        newheurist = poolheur;
         for( x=minx; x<=maxx; x++ ) {
             dist = minDist(x,y);
-            //z = (data[lastsensor].dist - Math.abs(data[lastsensor].y - y))*2;
-            //console.log(x + ": " + dist);
             if( dist <= 0 ) {
-                newheurist.set(x, lastsensor);
                 z = Math.abs(data[lastsensor].y - y);
                 x = data[lastsensor].x + ( data[lastsensor].dist - z );
             } else {
@@ -164,14 +133,13 @@ function part2()
                 return;
             }
         }
-
-        poolheur = heurist;
-        poolheur.clear();
-        heurist = newheurist;
     }
 
     console.log("Freq not found");
 
 }
 
+let t1 = new Date();
 part2();
+let t2 = new Date();
+console.log("Time: " + (t2-t1)/1000 + "s");
