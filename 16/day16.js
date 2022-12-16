@@ -8,7 +8,7 @@ data = data.split("\n").map( (x) => (x.trim().split(" ").filter( (x,i) => (i == 
 function makeGraph()
 {
     let G = {};
-    var i, j, label, rate, gates, gate;
+    var i, j, k, label, rate, gates, gate;
 
     for( i=0; i<data.length; i++ ) {
         label = data[i][0];
@@ -25,18 +25,33 @@ function makeGraph()
         }
     }
 
-    for( label in G ) {
-        G[label].dists = {};
+    // Floyd Warshall, precalculate all distances:
+    for( i in G ) {
+        G[i].dists = {};
+        G[i].dists[i] = 0;
+        for( j in G ) {
+            if( i == j ) continue;
+            if( G[i].gates.indexOf(j) != -1 )
+                G[i].dists[j] = 1;
+            else
+                G[i].dists[j] = Infinity;
+        }
+    }
+    for( k in G ) {
         for( i in G ) {
-            if( i == label ) continue;
-            G[label].dists[i] = distance(G, label, i);
+            for( j in G ) {
+                if( i == j ) continue;
+                if( G[i].dists[j] > G[i].dists[k] + G[k].dists[j] ) {
+                    G[i].dists[j] = G[i].dists[k] + G[k].dists[j];
+                }
+            }
         }
     }
 
     return G;
 }
 
-function distance(G, from, to)
+function distance(G, from, to) // a normal distance function that operates about as fast as FW for this small dataset
 {
     let Q = [[from,0]];
     var i, dist, vis = new Set();
@@ -128,13 +143,17 @@ function part2()
         let min=0, loops=0;
 
         for( to in graph ) {
-            vstr += "0";
-            gateid[to] = vstr.length-1;
             if( graph[to].rate == 0 ) {
-                vstr = vstr.substring(0, gateid[to]) + '1' + vstr.substring(gateid[to]+1);
                 vista.add(to);
                 if( to != from )
                     delete graph[to];
+                else {
+                    vstr += "1";
+                    gateid[to] = vstr.length-1;
+                }
+            } else {
+                vstr += "0";
+                gateid[to] = vstr.length-1;
             }
         }
         let Q = [[from, starttime, vista, 0, from, starttime, vstr]]; // here we retrieve a new item from the pool
