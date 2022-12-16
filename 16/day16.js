@@ -110,196 +110,98 @@ function part1()
 
 //part1();
 
-
-class ArrPool {
-    constructor( ) {
-        this.freed = [];
-        this.maxfreed = 0;
-    };
-
-    release(ptr) {
-        this.freed.push(ptr);
-        if( this.freed.length > this.maxfreed ) this.maxfreed = this.freed.length;
-    }
-
-    releaseAll(arr) {
-        this.freed.concat(arr);
-        if( this.freed.length > this.maxfreed ) this.maxfreed = this.freed.length;
-    }
-
-    get(params) {
-        var v, i;
-        if( this.freed.length > 0 ) {
-            v = this.freed.shift();
-            if( typeof params != 'undefined' ) {
-                for( i=0; i<params.length; i++ ) {
-                    v[i] = params[i];
-                }
-            }
-            return v;
-        }
-
-        v = [];
-        if( typeof params != 'undefined' ) {
-            for( i=0; i<params.length; i++ ) {
-                v[i] = params[i];
-            }
-        }
-        return v;
-    };
-}
-class SetPool {
-    constructor( ) {
-        this.freed = [];
-        this.maxfreed = 0;
-    };
-
-    release(ptr) {
-        ptr.clear();
-        this.freed.push(ptr);
-        if( this.freed.length > this.maxfreed ) this.maxfreed = this.freed.length;
-    }
-
-    get(params) {
-        var v, i, en;
-        if( this.freed.length > 0 ) {
-            v = this.freed.shift();
-
-            if( typeof params != 'undefined' ) {
-                en = params.entries();
-                for( i of en ) {
-                    v.add(i[0]);
-                }
-            }
-            return v;
-        }
-
-        if( typeof params != 'undefined' )
-            v = new Set(params);
-        else
-            v = new Set();
-        return v;
-    };
-}
-
 function part2()
 {
     let G = makeGraph();
-    let SP = new SetPool();
-    let AP = new ArrPool();
     
-    function printVista(vista)
-    {
-        let str = "", buf = [];
-        var en = vista.entries();
-        var i;
-        for( i of en ) {
-            buf.push(i[0]);
-        }
-        buf.sort();
-        for( i=0; i<buf.length; i++ ) {
-            str += buf[i] + ",";
-        }
-        return str;
-    }
     function search4(graph, from, starttime)
     {
-        var i, to, score;
-        var min=0;
-        var timeleft = starttime;
-        var total, elephant, eleleft;
-        let vista = SP.get();
-        let loops=0, moveElephant, movePlayer;
-        var dist;
+        var to, score;
+        var total, timeleft, elephant, eleleft;
+        let vista = new Set();
+        var dist, eledist;
         var obj, maxposs;
         var master = new Map();
-        var key, nv;
-        var vstr = from;
+        var key, nv, newstr;
+        var vstr = "";
+        let gateid = {};
+        let min=0, loops=0;
 
         for( to in graph ) {
+            vstr += "0";
+            gateid[to] = vstr.length-1;
             if( graph[to].rate == 0 ) {
+                vstr = vstr.substring(0, gateid[to]) + '1' + vstr.substring(gateid[to]+1);
                 vista.add(to);
                 if( to != from )
                     delete graph[to];
             }
         }
-        let Q = [AP.get([from, timeleft, vista, 0, from, timeleft, vstr])];
+        let Q = [[from, starttime, vista, 0, from, starttime, vstr]]; // here we retrieve a new item from the pool
         let skip=0;
 
+        console.log(vstr);
+
         while( Q.length > 0 ) {
-            obj = Q.pop();
-            from = obj[0]; timeleft = obj[1]; vista = obj[2]; total = obj[3]; elephant = obj[4]; eleleft = obj[5]; vstr = obj[6];
-            AP.release(obj);
+            [from,timeleft,vista,total,elephant,eleleft,vstr] = Q.pop();
+
             min = Math.max(min, total);
-            if( timeleft < 2 && eleleft < 2 ) {
-                SP.release(vista);
+            if( timeleft < 2 && eleleft < 2 )
+                continue;
+
+            // We can memoize pretty egregiously:
+            if( master.has(vstr) && master.get(vstr) >= total ) {
+                skip++;
                 continue;
             }
-            key = vstr;
-            if( master.has(key) ) {
-                if( master.get(key) >= total ) {
-                    skip++;
-                    SP.release(vista);
-                    continue;
-                }
-            }
-            master.set(key, total);
-
-            loops++;
-            if( (loops%100000) == 0 ) {
-                console.log("Loop " + loops + " score: " + total + " max: " + min + ", skip: " + skip);
-            }
-
-
+            master.set(vstr, total);
+            
+            // This reduces the search time by 1/3rd:
             maxposs = 0;
             for( to in graph ) {
                 if( vista.has(to) ) continue;
                 maxposs += graph[to].rate;
             }
-            if( maxposs * (Math.max(eleleft,timeleft)-1) + total <= min ) {
-                SP.release(vista);
+            if( maxposs * (Math.max(eleleft,timeleft)-2) + total <= min ) {
+                skip++;
                 continue;
             }
+
+            loops++;
+            if( (loops%10000) == 0 ) {
+                console.log("Loop " + loops + " score: " + total + " max: " + min + ", skip: " + skip);
+            }
             
-            if( eleleft >= 2 ) {
-                for( to in graph ) {
-                    if( vista.has(to) ) continue;
-                    
-                    dist = graph[elephant].dists[ to ];
-                    score = graph[to].rate * ( eleleft - (1 + dist) );
-    
+            for( to in graph ) {
+                if( vista.has(to) ) continue;
+                
+                if( eleleft >= 2 ) {
+                    eledist = eleleft - (graph[elephant].dists[ to ] + 1); // eledist is now the time left for the elephant
+                    score = graph[to].rate * eledist;    
                     if( score > 0 ) {
-                        nv = SP.get(vista);
+                        newstr = vstr.substring(0, gateid[to]) + '1' + vstr.substring(gateid[to]+1);
+                        nv = new Set(vista);
                         nv.add( to );
-                        Q.push( AP.get([ from, timeleft, nv, total+score, to, eleleft-(1+dist), printVista(nv) ]) );
+                        Q.push( [ from, timeleft, nv, total+score, to, eledist, newstr ] );
+                    }
+                }
+                if( timeleft >= 2 ) {
+                    dist = timeleft - (graph[from].dists[ to ] + 1); // dist is now time left for player
+                    score = graph[to].rate * dist;
+                    if( score > 0 ) {
+                        newstr = vstr.substring(0, gateid[to]) + '1' + vstr.substring(gateid[to]+1);
+                        nv = new Set(vista);
+                        nv.add( to );
+                        Q.push( [ to, dist, nv, total+score, elephant, eleleft, newstr ] );
                     }
                 }
             }
-
-            if( timeleft >= 2 ) {
-                for( to in graph ) {
-                    if( vista.has(to) ) continue;
-                    
-                    dist = graph[from].dists[ to ];
-                    score = graph[to].rate * ( timeleft - (1 + dist) );
-    
-                    if( score > 0 ) {
-                        nv = SP.get(vista);
-                        nv.add( to );
-                        Q.push( AP.get([ to, timeleft-(1+dist), nv, total+score, elephant, eleleft, printVista(nv) ]) );
-                    }
-                }
-            }
-
-            SP.release(vista);
         }
 
         return min;
     }
         
     console.log("Max flow " + search4(G, 'AA', 26));
-    console.log("SP MF: " + SP.maxfreed);
-    console.log("AP MF: " + AP.maxfreed);
 }
 
 part2();
