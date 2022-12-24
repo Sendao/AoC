@@ -1,0 +1,8 @@
+A group of 12 pirates finds a chest of gold coins. After the coins are 
+distributed evenly among the pirates, they find that there are 4 gold coins 
+remaining. After a heated argument about how the remaining 4 coins should be 
+distributed, two of the pirates are killed. The coins can now be split evenly 
+among the crew. What's the smallest number of coins that could have been in 
+the chest?
+
+
