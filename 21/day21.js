@@ -56,7 +56,7 @@ let evaluateVar = function(name) {
 						if( tgt < 0 ) {
 							data2[-(tgt+1)] += a[0][i] * b[1][j];
 						} else {
-							data[tgt] += a[0][i] * b[0][j];
+							data[tgt] += a[0][i] * b[1][j];
 						}
 					}
 				}

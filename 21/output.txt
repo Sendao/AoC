@@ -1,0 +1,3339 @@
+fhnm 5
+rqrv 4
+ntrt 10
+twhb [ 'rqrv', '*', 'ntrt' ] [ 40, 0 ] []
+swcr 2
+mmrs 3
+hzsc 19
+mcfh [ 'mmrs', '*', 'hzsc' ] [ 57, 0 ] []
+rhpc 3
+hrnv [ 'mcfh', '/', 'rhpc' ] [ 19, 0 ] []
+zlhg 2
+shzs [ 'hrnv', '*', 'zlhg' ] [ 38, 0, 0 ] []
+smfc 1
+zjtb 6
+mrsv [ 'smfc', '+', 'zjtb' ] [ 7 ] []
+mbmr [ 'shzs', '+', 'mrsv' ] [ 45, 0, 0 ] []
+gwdv 2
+jjgw [ 'mbmr', '-', 'gwdv' ] [ 43, 0, 0 ] []
+qsqn [ 'swcr', '*', 'jjgw' ] [ 86, 0, 0, 0 ] []
+slww 3
+bffq 17
+pbzw 3
+fhwt [ 'bffq', '*', 'pbzw' ] [ 51, 0 ] []
+bgqc [ 'slww', '*', 'fhwt' ] [ 153, 0, 0 ] []
+rbpr [ 'qsqn', '+', 'bgqc' ] [ 239, 0, 0, 0 ] []
+tbcp 2
+qgrr 10
+tstw 3
+zjfc [ 'qgrr', '*', 'tstw' ] [ 30, 0 ] []
+ztfj 2
+drgz 19
+bmld [ 'ztfj', '*', 'drgz' ] [ 38, 0 ] []
+mjlq 2
+pvjn [ 'bmld', '/', 'mjlq' ] [ 19, 0 ] []
+jbcl [ 'zjfc', '+', 'pvjn' ] [ 49, 0 ] []
+jljd [ 'tbcp', '*', 'jbcl' ] [ 98, 0, 0 ] []
+djgc 6
+rtrh 13
+flfq 2
+jgzp [ 'rtrh', '*', 'flfq' ] [ 26, 0 ] []
+nnrr [ 'djgc', '*', 'jgzp' ] [ 156, 0, 0 ] []
+dsdp [ 'jljd', '+', 'nnrr' ] [ 254, 0, 0 ] []
+fmgb [ 'rbpr', '+', 'dsdp' ] [ 493, 0, 0, 0 ] []
+rmzz 11
+dtjr 8
+nhvf [ 'rmzz', '+', 'dtjr' ] [ 19 ] []
+gqsn 3
+qglw [ 'nhvf', '*', 'gqsn' ] [ 57, 0 ] []
+httq [ 'fmgb', '*', 'qglw' ] [ 28101, 0, 0, 0, 0, 0 ] []
+rtzt 2
+srwd 20
+vqqh 9
+hhlb [ 'srwd', '+', 'vqqh' ] [ 29 ] []
+vmvn 13
+gtbw 2
+jtfn [ 'vmvn', '-', 'gtbw' ] [ 11 ] []
+hlsb 2
+vgnz [ 'jtfn', '*', 'hlsb' ] [ 22, 0 ] []
+nlsn 2
+glsc [ 'vgnz', '+', 'nlsn' ] [ 24, 0 ] []
+lhmf [ 'hhlb', '+', 'glsc' ] [ 53, 0 ] []
+mdrl 19
+tcgb 4
+dzhv [ 'mdrl', '+', 'tcgb' ] [ 23 ] []
+bbph 3
+gzsj 3
+rwjs [ 'bbph', '*', 'gzsj' ] [ 9, 0 ] []
+nzvl 3
+fmzg [ 'rwjs', '*', 'nzvl' ] [ 27, 0, 0 ] []
+bvfr 9
+jmvr [ 'fmzg', '+', 'bvfr' ] [ 36, 0, 0 ] []
+qrff [ 'dzhv', '*', 'jmvr' ] [ 828, 0, 0, 0 ] []
+dbfj [ 'lhmf', '+', 'qrff' ] [ 881, 0, 0, 0 ] []
+qnmd 4
+vlpf [ 'dbfj', '*', 'qnmd' ] [ 3524, 0, 0, 0, 0 ] []
+zthj [ 'rtzt', '*', 'vlpf' ] [ 7048, 0, 0, 0, 0, 0 ] []
+lvpr [ 'httq', '+', 'zthj' ] [ 35149, 0, 0, 0, 0, 0 ] []
+gqqr [ 'twhb', '*', 'lvpr' ] [ 1405960, 0, 0, 0, 0, 0, 0, 0 ] []
+rnhs 3
+sfhw 2
+qqvc [ 'rnhs', '*', 'sfhw' ] [ 6, 0 ] []
+qczv 2
+tbfq 3
+wbvq 3
+hhqw 3
+rnbj [ 'wbvq', '*', 'hhqw' ] [ 9, 0 ] []
+lfnb 2
+smlr [ 'rnbj', '-', 'lfnb' ] [ 7, 0 ] []
+bzfb [ 'tbfq', '*', 'smlr' ] [ 21, 0, 0 ] []
+vbpz [ 'qczv', '+', 'bzfb' ] [ 23, 0, 0 ] []
+mlsw 19
+mhzr 2
+wrmr [ 'mlsw', '*', 'mhzr' ] [ 38, 0 ] []
+crcj [ 'vbpz', '+', 'wrmr' ] [ 61, 0, 0 ] []
+bfpn [ 'qqvc', '*', 'crcj' ] [ 366, 0, 0, 0, 0 ] []
+vvnw 2
+ptlb 5
+cncj [ 'vvnw', '+', 'ptlb' ] [ 7 ] []
+rpgr 3
+qdbv 8
+sfdc 5
+bcbg [ 'qdbv', '+', 'sfdc' ] [ 13 ] []
+jjcn [ 'rpgr', '+', 'bcbg' ] [ 16 ] []
+bzwc 3
+qzqq 4
+pvhq 2
+nfzn [ 'qzqq', '*', 'pvhq' ] [ 8, 0 ] []
+fpng 1
+pcjh [ 'nfzn', '+', 'fpng' ] [ 9, 0 ] []
+hzds [ 'bzwc', '*', 'pcjh' ] [ 27, 0, 0 ] []
+cgql [ 'jjcn', '+', 'hzds' ] [ 43, 0, 0 ] []
+mlwl 14
+bpgd [ 'cgql', '+', 'mlwl' ] [ 57, 0, 0 ] []
+gzrw [ 'cncj', '*', 'bpgd' ] [ 399, 0, 0, 0 ] []
+bndl [ 'bfpn', '*', 'gzrw' ] [ 146034, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+wjgn 2
+msmm 3
+nsdl 3
+zmbl [ 'msmm', '*', 'nsdl' ] [ 9, 0 ] []
+zdpr 3
+jbmr [ 'zmbl', '*', 'zdpr' ] [ 27, 0, 0 ] []
+wlgj 6
+wzjv [ 'jbmr', '*', 'wlgj' ] [ 162, 0, 0, 0 ] []
+lbbq 11
+zgfb 16
+rsjg [ 'lbbq', '+', 'zgfb' ] [ 27 ] []
+jbvw [ 'wzjv', '*', 'rsjg' ] [ 4374, 0, 0, 0, 0 ] []
+vhsn 2
+sbzg 12
+nhqd 5
+hvfp [ 'sbzg', '+', 'nhqd' ] [ 17 ] []
+bjqv [ 'vhsn', '*', 'hvfp' ] [ 34, 0 ] []
+nbcm 2
+mnbb [ 'bjqv', '/', 'nbcm' ] [ 17, 0 ] []
+llbb 3
+hhdq 3
+vwcb 3
+dhtn 3
+strn [ 'vwcb', '*', 'dhtn' ] [ 9, 0 ] []
+btjz [ 'hhdq', '*', 'strn' ] [ 27, 0, 0 ] []
+dwgt 3
+cvfs [ 'btjz', '*', 'dwgt' ] [ 81, 0, 0, 0 ] []
+zzml 4
+mnzc 2
+jmqj 3
+gqht [ 'mnzc', '*', 'jmqj' ] [ 6, 0 ] []
+sbwm 1
+slgp [ 'gqht', '+', 'sbwm' ] [ 7, 0 ] []
+hnzq [ 'zzml', '*', 'slgp' ] [ 28, 0, 0 ] []
+bwqd [ 'cvfs', '+', 'hnzq' ] [ 109, 0, 0, 0 ] []
+llmh 5
+bqnz [ 'bwqd', '+', 'llmh' ] [ 114, 0, 0, 0 ] []
+qjpb 17
+vbws 4
+nhnj [ 'qjpb', '*', 'vbws' ] [ 68, 0 ] []
+qfmd [ 'bqnz', '+', 'nhnj' ] [ 182, 0, 0, 0 ] []
+pffr 5
+nngq 3
+hclc 3
+nhbz [ 'nngq', '*', 'hclc' ] [ 9, 0 ] []
+htfz [ 'pffr', '+', 'nhbz' ] [ 14, 0 ] []
+pgvv 4
+zlzd [ 'htfz', '*', 'pgvv' ] [ 56, 0, 0 ] []
+pbft 4
+qgqh 11
+wqdb 5
+fwnd [ 'qgqh', '*', 'wqdb' ] [ 55, 0 ] []
+ddpl [ 'pbft', '+', 'fwnd' ] [ 59, 0 ] []
+dvjz 2
+swpq 5
+bhlb 2
+ddbd [ 'swpq', '*', 'bhlb' ] [ 10, 0 ] []
+vjvf [ 'dvjz', '*', 'ddbd' ] [ 20, 0, 0 ] []
+wbjn [ 'ddpl', '+', 'vjvf' ] [ 79, 0, 0 ] []
+bfrv [ 'zlzd', '+', 'wbjn' ] [ 135, 0, 0 ] []
+bbmc 3
+dltj [ 'bfrv', '/', 'bbmc' ] [ 45, 0, 0 ] []
+hbvc [ 'qfmd', '-', 'dltj' ] [ 137, 0, 0, 0 ] []
+dsws 2
+dnzf 3
+dmjv 3
+llzh [ 'dnzf', '*', 'dmjv' ] [ 9, 0 ] []
+jzfz 4
+sbrm 3
+grrs 3
+zpmv 2
+dlcs 4
+lchv [ 'zpmv', '*', 'dlcs' ] [ 8, 0 ] []
+dvwr [ 'grrs', '+', 'lchv' ] [ 11, 0 ] []
+vbqn [ 'sbrm', '*', 'dvwr' ] [ 33, 0, 0 ] []
+hgtr 3
+bsqj [ 'vbqn', '/', 'hgtr' ] [ 11, 0, 0 ] []
+bzsv 2
+ggjh [ 'bsqj', '*', 'bzsv' ] [ 22, 0, 0, 0 ] []
+bcrq [ 'jzfz', '*', 'ggjh' ] [ 88, 0, 0, 0, 0 ] []
+hgqt [ 'llzh', '+', 'bcrq' ] [ 97, 0, 0, 0, 0 ] []
+hltw [ 'dsws', '*', 'hgqt' ] [ 194, 0, 0, 0, 0, 0 ] []
+mdcw [ 'hbvc', '+', 'hltw' ] [ 331, 0, 0, 0, 0, 0 ] []
+mcrf [ 'llbb', '*', 'mdcw' ] [ 993, 0, 0, 0, 0, 0, 0 ] []
+rzps 2
+ftbs 3
+mhgp 17
+qlwm [ 'ftbs', '*', 'mhgp' ] [ 51, 0 ] []
+zdst 4
+gtph [ 'qlwm', '-', 'zdst' ] [ 47, 0 ] []
+gdcn [ 'rzps', '*', 'gtph' ] [ 94, 0, 0 ] []
+vbrf 2
+wplq [ 'gdcn', '*', 'vbrf' ] [ 188, 0, 0, 0 ] []
+csgb 7
+vzqp [ 'wplq', '*', 'csgb' ] [ 1316, 0, 0, 0, 0 ] []
+vpsw [ 'mcrf', '+', 'vzqp' ] [ 2309, 0, 0, 0, 0, 0, 0 ] []
+gdlr 2
+gnjs 16
+jsbn [ 'gdlr', '*', 'gnjs' ] [ 32, 0 ] []
+gllf 14
+nlpw [ 'jsbn', '*', 'gllf' ] [ 448, 0, 0 ] []
+jdzb [ 'vpsw', '-', 'nlpw' ] [ 1861, 0, 0, 0, 0, 0, 0 ] []
+ldcl [ 'mnbb', '*', 'jdzb' ] [ 31637, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+lrht [ 'jbvw', '+', 'ldcl' ] [ 36011, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+jlhh [ 'wjgn', '*', 'lrht' ] [ 72022, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+clsh [ 'bndl', '+', 'jlhh' ] [ 218056, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+smwt 5
+jrcw 15
+jnvs 2
+lwvd [ 'jrcw', '+', 'jnvs' ] [ 17 ] []
+zbrh [ 'smwt', '+', 'lwvd' ] [ 22 ] []
+slqs 4
+jjsn 3
+zzwm 5
+wwfb [ 'jjsn', '*', 'zzwm' ] [ 15, 0 ] []
+prnj [ 'slqs', '+', 'wwfb' ] [ 19, 0 ] []
+bplg 4
+gwlr [ 'prnj', '*', 'bplg' ] [ 76, 0, 0 ] []
+qlsm [ 'zbrh', '+', 'gwlr' ] [ 98, 0, 0 ] []
+ntrr 9
+nsjw 9
+ptrc [ 'ntrr', '*', 'nsjw' ] [ 81, 0 ] []
+jmqd [ 'qlsm', '+', 'ptrc' ] [ 179, 0, 0 ] []
+rrcb 3
+ntsp [ 'jmqd', '*', 'rrcb' ] [ 537, 0, 0, 0 ] []
+crwt 2
+zlcp 7
+vmvz [ 'crwt', '*', 'zlcp' ] [ 14, 0 ] []
+dptm 1
+gprv 11
+cqms 2
+bfmm [ 'gprv', '*', 'cqms' ] [ 22, 0 ] []
+whdw [ 'dptm', '+', 'bfmm' ] [ 23, 0 ] []
+qmqc 12
+cchl 5
+qbnf [ 'qmqc', '+', 'cchl' ] [ 17 ] []
+jqzd [ 'whdw', '+', 'qbnf' ] [ 40, 0 ] []
+wfst [ 'vmvz', '*', 'jqzd' ] [ 560, 0, 0, 0 ] []
+pgzq 8
+lfqn 2
+zwfv 5
+wmqv [ 'lfqn', '+', 'zwfv' ] [ 7 ] []
+zvhj 3
+pzhf [ 'wmqv', '*', 'zvhj' ] [ 21, 0 ] []
+trsb [ 'pgzq', '*', 'pzhf' ] [ 168, 0, 0 ] []
+grwz 5
+gqwf [ 'trsb', '+', 'grwz' ] [ 173, 0, 0 ] []
+hnlh 2
+vdgf 5
+pvmn [ 'hnlh', '*', 'vdgf' ] [ 10, 0 ] []
+fzqz 17
+rmwz 2
+rmgw 13
+bdjg [ 'rmwz', '*', 'rmgw' ] [ 26, 0 ] []
+mjvm 2
+zcqq [ 'bdjg', '/', 'mjvm' ] [ 13, 0 ] []
+nzzv 15
+hvrf [ 'zcqq', '+', 'nzzv' ] [ 28, 0 ] []
+qcsn 2
+zlnz [ 'hvrf', '/', 'qcsn' ] [ 14, 0 ] []
+lhtc [ 'fzqz', '+', 'zlnz' ] [ 31, 0 ] []
+jjqm 9
+dmns [ 'lhtc', '+', 'jjqm' ] [ 40, 0 ] []
+fvln [ 'pvmn', '*', 'dmns' ] [ 400, 0, 0, 0 ] []
+rgtl [ 'gqwf', '+', 'fvln' ] [ 573, 0, 0, 0 ] []
+jlsd 3
+mfgq [ 'rgtl', '/', 'jlsd' ] [ 191, 0, 0, 0 ] []
+cctg [ 'wfst', '+', 'mfgq' ] [ 751, 0, 0, 0 ] []
+qbzr 2
+vhql 13
+mjbs [ 'qbzr', '*', 'vhql' ] [ 26, 0 ] []
+tppc 2
+hlzs [ 'mjbs', '*', 'tppc' ] [ 52, 0, 0 ] []
+qpsp 19
+ppzd [ 'hlzs', '+', 'qpsp' ] [ 71, 0, 0 ] []
+lqdv 5
+rhzf 5
+rbmd [ 'lqdv', '*', 'rhzf' ] [ 25, 0 ] []
+bqtv 4
+tlbs 3
+lrnq [ 'bqtv', '+', 'tlbs' ] [ 7 ] []
+fggn [ 'rbmd', '-', 'lrnq' ] [ 18, 0 ] []
+gwmd [ 'ppzd', '+', 'fggn' ] [ 89, 0, 0 ] []
+ggwf 5
+cwvm [ 'gwmd', '*', 'ggwf' ] [ 445, 0, 0, 0 ] []
+pgbl 3
+bvmz [ 'cwvm', '*', 'pgbl' ] [ 1335, 0, 0, 0, 0 ] []
+gvcz [ 'cctg', '+', 'bvmz' ] [ 2086, 0, 0, 0, 0 ] []
+cpsv [ 'ntsp', '+', 'gvcz' ] [ 2623, 0, 0, 0, 0 ] []
+dttt [ 'clsh', '+', 'cpsv' ] [ 220679, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+mmzz 3
+clrg [ 'dttt', '*', 'mmzz' ] [ 662037, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+djhh [ 'gqqr', '+', 'clrg' ] [ 2067997, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+sdjz 2
+mdtn [ 'djhh', '*', 'sdjz' ] [ 4135994, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+jqvl 2
+ggwc [ 'mdtn', '/', 'jqvl' ] [ 2067997, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+lmbq 4
+jqcq 2
+bqdr 17
+rtgq [ 'jqcq', '*', 'bqdr' ] [ 34, 0 ] []
+ttwr 6
+msrg 5
+gztd 3
+sznf [ 'msrg', '*', 'gztd' ] [ 15, 0 ] []
+mvnw [ 'ttwr', '*', 'sznf' ] [ 90, 0, 0 ] []
+cfcr [ 'rtgq', '+', 'mvnw' ] [ 124, 0, 0 ] []
+gmrs 3
+wqhs [ 'cfcr', '+', 'gmrs' ] [ 127, 0, 0 ] []
+hcsp [ 'lmbq', '*', 'wqhs' ] [ 508, 0, 0, 0 ] []
+jhnv 3
+jwlz 5
+znrg [ 'jhnv', '+', 'jwlz' ] [ 8 ] []
+zjzz 9
+bmjp [ 'znrg', '*', 'zjzz' ] [ 72, 0 ] []
+fznm 7
+hrrh [ 'bmjp', '+', 'fznm' ] [ 79, 0 ] []
+gwbv [ 'hcsp', '*', 'hrrh' ] [ 40132, 0, 0, 0, 0, 0 ] []
+mqcl 7
+qwfp 3
+crtz [ 'mqcl', '*', 'qwfp' ] [ 21, 0 ] []
+zzgm 3
+wdrs [ 'crtz', '*', 'zzgm' ] [ 63, 0, 0 ] []
+rnvr 9
+sdvv 2
+hffm [ 'rnvr', '*', 'sdvv' ] [ 18, 0 ] []
+zrgs 13
+rcqw [ 'hffm', '+', 'zrgs' ] [ 31, 0 ] []
+lhqp 5
+cqbj [ 'rcqw', '*', 'lhqp' ] [ 155, 0, 0 ] []
+sqdz 11
+flgg 2
+jmwq [ 'sqdz', '*', 'flgg' ] [ 22, 0 ] []
+mzrc [ 'cqbj', '+', 'jmwq' ] [ 177, 0, 0 ] []
+rzjd 1
+vgjd 10
+jclv [ 'rzjd', '+', 'vgjd' ] [ 11 ] []
+nlbm 2
+qbbh [ 'jclv', '*', 'nlbm' ] [ 22, 0 ] []
+bzvf 5
+zvlt [ 'qbbh', '*', 'bzvf' ] [ 110, 0, 0 ] []
+cvtq [ 'mzrc', '+', 'zvlt' ] [ 287, 0, 0 ] []
+stgs 3
+ggbf 4
+cgnf [ 'stgs', '+', 'ggbf' ] [ 7 ] []
+nlwl [ 'cvtq', '/', 'cgnf' ] [ 41, 0, 0 ] []
+nfbs 4
+cnfw [ 'nlwl', '*', 'nfbs' ] [ 164, 0, 0, 0 ] []
+ffpd 7
+rgtb 5
+bndp 3
+sjhs [ 'rgtb', '*', 'bndp' ] [ 15, 0 ] []
+zrgb 11
+rfmz 2
+ngzq [ 'zrgb', '*', 'rfmz' ] [ 22, 0 ] []
+lpqn [ 'sjhs', '+', 'ngzq' ] [ 37, 0 ] []
+vdmv [ 'ffpd', '*', 'lpqn' ] [ 259, 0, 0 ] []
+cmgm 5
+djbh 2
+dsdf [ 'cmgm', '+', 'djbh' ] [ 7 ] []
+zbpw [ 'vdmv', '/', 'dsdf' ] [ 37, 0, 0 ] []
+jlsz [ 'cnfw', '+', 'zbpw' ] [ 201, 0, 0, 0 ] []
+wqgs 16
+zqsv 4
+swvd [ 'wqgs', '*', 'zqsv' ] [ 64, 0 ] []
+wpww [ 'jlsz', '-', 'swvd' ] [ 137, 0, 0, 0 ] []
+nhgv 3
+dwss [ 'wpww', '*', 'nhgv' ] [ 411, 0, 0, 0, 0 ] []
+zmjb 4
+bvtl 13
+pgqz 18
+jgjg [ 'bvtl', '+', 'pgqz' ] [ 31 ] []
+mndv [ 'zmjb', '*', 'jgjg' ] [ 124, 0 ] []
+bwbq [ 'dwss', '+', 'mndv' ] [ 535, 0, 0, 0, 0 ] []
+ldlb 5
+dmnd 3
+bnzd 8
+qrhw [ 'dmnd', '+', 'bnzd' ] [ 11 ] []
+rwwb 4
+hqjr 6
+msdh [ 'rwwb', '*', 'hqjr' ] [ 24, 0 ] []
+jsss 19
+ghvn [ 'msdh', '+', 'jsss' ] [ 43, 0 ] []
+vjdf [ 'qrhw', '+', 'ghvn' ] [ 54, 0 ] []
+bwzg 5
+gjfv [ 'vjdf', '+', 'bwzg' ] [ 59, 0 ] []
+nhdn 14
+tsvq [ 'gjfv', '+', 'nhdn' ] [ 73, 0 ] []
+zvcm [ 'ldlb', '*', 'tsvq' ] [ 365, 0, 0 ] []
+qbsm 3
+lfzp 20
+wrrj 11
+bzcc [ 'lfzp', '*', 'wrrj' ] [ 220, 0 ] []
+lrnh 2
+pzns 5
+mrdp [ 'lrnh', '+', 'pzns' ] [ 7 ] []
+gdvw [ 'bzcc', '-', 'mrdp' ] [ 213, 0 ] []
+cmsg 8
+bcjm 10
+pgzs [ 'cmsg', '*', 'bcjm' ] [ 80, 0 ] []
+qcjq [ 'gdvw', '+', 'pgzs' ] [ 293, 0 ] []
+hsnq 4
+sfzh 5
+zdgw [ 'hsnq', '*', 'sfzh' ] [ 20, 0 ] []
+hcpn 15
+btjg [ 'zdgw', '*', 'hcpn' ] [ 300, 0, 0 ] []
+pjtm [ 'qcjq', '+', 'btjg' ] [ 593, 0, 0 ] []
+fjmj [ 'qbsm', '*', 'pjtm' ] [ 1779, 0, 0, 0 ] []
+wzhs 3
+chfw [ 'fjmj', '/', 'wzhs' ] [ 593, 0, 0, 0 ] []
+dhtt [ 'zvcm', '+', 'chfw' ] [ 958, 0, 0, 0 ] []
+svnp [ 'bwbq', '+', 'dhtt' ] [ 1493, 0, 0, 0, 0 ] []
+lqfh [ 'wdrs', '*', 'svnp' ] [ 94059, 0, 0, 0, 0, 0, 0, 0 ] []
+sjpn 7
+qtvg [ 'lqfh', '/', 'sjpn' ] [ 13437, 0, 0, 0, 0, 0, 0, 0 ] []
+szfs [ 'gwbv', '+', 'qtvg' ] [ 53569, 0, 0, 0, 0, 0, 0, 0 ] []
+qgnv 3
+plbj 17
+djqq [ 'qgnv', '*', 'plbj' ] [ 51, 0 ] []
+cjzh 2
+rmhd [ 'djqq', '-', 'cjzh' ] [ 49, 0 ] []
+fvrb 2
+clhc [ 'rmhd', '*', 'fvrb' ] [ 98, 0, 0 ] []
+fbhq [ 'szfs', '*', 'clhc' ] [ 5249762, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+smhz 6
+lptd 5
+blzv [ 'smhz', '+', 'lptd' ] [ 11 ] []
+qbls 1
+qbvz 2
+zdjv 5
+vvqq 4
+hlrs 2
+stwf [ 'vvqq', '*', 'hlrs' ] [ 8, 0 ] []
+vbdv 1
+rhtc 3
+nlln 3
+htrs [ 'rhtc', '+', 'nlln' ] [ 6 ] []
+qmpc [ 'vbdv', '+', 'htrs' ] [ 7 ] []
+fprl [ 'stwf', '+', 'qmpc' ] [ 15, 0 ] []
+gjvj 4
+vqsv [ 'fprl', '+', 'gjvj' ] [ 19, 0 ] []
+zrmd [ 'zdjv', '*', 'vqsv' ] [ 95, 0, 0 ] []
+hltz [ 'qbvz', '*', 'zrmd' ] [ 190, 0, 0, 0 ] []
+vnbw [ 'qbls', '+', 'hltz' ] [ 191, 0, 0, 0 ] []
+hrpv 2
+llwt [ 'vnbw', '*', 'hrpv' ] [ 382, 0, 0, 0, 0 ] []
+rssb [ 'blzv', '*', 'llwt' ] [ 4202, 0, 0, 0, 0, 0 ] []
+ddfp 2
+qlrq [ 'rssb', '/', 'ddfp' ] [ 2101, 0, 0, 0, 0, 0 ] []
+mpsb 3
+nrll 8
+bgmj [ 'mpsb', '+', 'nrll' ] [ 11 ] []
+fwvg 3
+dsgl 1
+rmbr 16
+jwvs [ 'dsgl', '+', 'rmbr' ] [ 17 ] []
+hdcc [ 'fwvg', '*', 'jwvs' ] [ 51, 0 ] []
+vpcs [ 'bgmj', '+', 'hdcc' ] [ 62, 0 ] []
+tjll 3
+cnhb 2
+zrng [ 'tjll', '*', 'cnhb' ] [ 6, 0 ] []
+hvfh [ 'vpcs', '*', 'zrng' ] [ 372, 0, 0, 0 ] []
+cdlg 2
+vwzj 4
+qgvz 3
+mpfr [ 'vwzj', '+', 'qgvz' ] [ 7 ] []
+smns [ 'cdlg', '*', 'mpfr' ] [ 14, 0 ] []
+lcdd 7
+rzfn 5
+svsl [ 'lcdd', '*', 'rzfn' ] [ 35, 0 ] []
+fclc [ 'smns', '*', 'svsl' ] [ 490, 0, 0, 0 ] []
+dzcl 2
+gvpf [ 'fclc', '/', 'dzcl' ] [ 245, 0, 0, 0 ] []
+lwqz [ 'hvfh', '+', 'gvpf' ] [ 617, 0, 0, 0 ] []
+lqsf 2
+glfs [ 'lwqz', '*', 'lqsf' ] [ 1234, 0, 0, 0, 0 ] []
+jrlg 2
+cvdn [ 'glfs', '/', 'jrlg' ] [ 617, 0, 0, 0, 0 ] []
+bgzs 6
+nlns 2
+njlw [ 'bgzs', '*', 'nlns' ] [ 12, 0 ] []
+wmmj 5
+qwpq [ 'njlw', '+', 'wmmj' ] [ 17, 0 ] []
+zgfz 12
+srvf [ 'qwpq', '*', 'zgfz' ] [ 204, 0, 0 ] []
+wndh 2
+fpnc 3
+qggh 13
+wpml [ 'fpnc', '*', 'qggh' ] [ 39, 0 ] []
+mtlp 5
+znvr 5
+vrsh 3
+glsp 4
+zscn [ 'vrsh', '+', 'glsp' ] [ 7 ] []
+zpzm 2
+jdpj [ 'zscn', '*', 'zpzm' ] [ 14, 0 ] []
+glgg [ 'znvr', '+', 'jdpj' ] [ 19, 0 ] []
+rqpw 2
+qvhr [ 'glgg', '*', 'rqpw' ] [ 38, 0, 0 ] []
+btcz [ 'mtlp', '*', 'qvhr' ] [ 190, 0, 0, 0 ] []
+bqcf [ 'wpml', '+', 'btcz' ] [ 229, 0, 0, 0 ] []
+nwss [ 'wndh', '*', 'bqcf' ] [ 458, 0, 0, 0, 0 ] []
+vdfv [ 'srvf', '+', 'nwss' ] [ 662, 0, 0, 0, 0 ] []
+tjdz [ 'cvdn', '+', 'vdfv' ] [ 1279, 0, 0, 0, 0 ] []
+wqtd 3
+mdtf [ 'tjdz', '*', 'wqtd' ] [ 3837, 0, 0, 0, 0, 0 ] []
+mpcc [ 'qlrq', '+', 'mdtf' ] [ 5938, 0, 0, 0, 0, 0 ] []
+lvwv 5
+gjfq 9
+znrz [ 'lvwv', '+', 'gjfq' ] [ 14 ] []
+gccg 3
+ddjd [ 'znrz', '+', 'gccg' ] [ 17 ] []
+vbsr 18
+mzpd 13
+jngn [ 'vbsr', '+', 'mzpd' ] [ 31 ] []
+mswm 5
+btqm 5
+wncf [ 'mswm', '*', 'btqm' ] [ 25, 0 ] []
+jbbz 2
+wrvf [ 'wncf', '*', 'jbbz' ] [ 50, 0, 0 ] []
+mnfn 8
+sfbw [ 'wrvf', '+', 'mnfn' ] [ 58, 0, 0 ] []
+pzcg 2
+jqpn [ 'sfbw', '/', 'pzcg' ] [ 29, 0, 0 ] []
+wgjd [ 'jngn', '*', 'jqpn' ] [ 899, 0, 0, 0 ] []
+jmnv [ 'ddjd', '*', 'wgjd' ] [ 15283, 0, 0, 0, 0 ] []
+fdlw [ 'mpcc', '+', 'jmnv' ] [ 21221, 0, 0, 0, 0, 0 ] []
+rtcd 19
+vcmm [ 'fdlw', '*', 'rtcd' ] [ 403199, 0, 0, 0, 0, 0, 0 ] []
+jfqj [ 'fbhq', '+', 'vcmm' ] [ 5652961, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+bsfb [ 'ggwc', '*', 'jfqj' ] [ 11690306389117, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+dshn [ 'fhnm', '*', 'bsfb' ] [ 58451531945585,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+snmg 12
+dzdj 13
+dswd [ 'snmg', '*', 'dzdj' ] [ 156, 0 ] []
+sfvp 16
+lnhl 6
+snzs [ 'sfvp', '*', 'lnhl' ] [ 96, 0 ] []
+lnwl 2
+gtjv 5
+jsgz 3
+qtvh [ 'gtjv', '*', 'jsgz' ] [ 15, 0 ] []
+tvts 2
+chsc [ 'qtvh', '-', 'tvts' ] [ 13, 0 ] []
+tmgp 17
+qfwj 3
+sdqz [ 'tmgp', '*', 'qfwj' ] [ 51, 0 ] []
+rjqh [ 'chsc', '+', 'sdqz' ] [ 64, 0 ] []
+tqvg 3
+vcpv 4
+zsvz [ 'tqvg', '+', 'vcpv' ] [ 7 ] []
+wpwp 6
+qrfl [ 'zsvz', '+', 'wpwp' ] [ 13 ] []
+bjzv 5
+zjnp 16
+dppm [ 'bjzv', '*', 'zjnp' ] [ 80, 0 ] []
+sggv [ 'qrfl', '+', 'dppm' ] [ 93, 0 ] []
+svrl [ 'rjqh', '+', 'sggv' ] [ 157, 0 ] []
+ltmp [ 'lnwl', '*', 'svrl' ] [ 314, 0, 0 ] []
+hbdw 2
+nljs [ 'ltmp', '/', 'hbdw' ] [ 157, 0, 0 ] []
+clbh 2
+fsjh [ 'nljs', '*', 'clbh' ] [ 314, 0, 0, 0 ] []
+rvbr 3
+mzhw 1
+zqvg 2
+qnjm 3
+wvdr [ 'zqvg', '*', 'qnjm' ] [ 6, 0 ] []
+sbhr [ 'mzhw', '+', 'wvdr' ] [ 7, 0 ] []
+swbm 7
+wrrn [ 'sbhr', '+', 'swbm' ] [ 14, 0 ] []
+cdpl 3
+vvsv 7
+wbtz 5
+hhsg [ 'vvsv', '+', 'wbtz' ] [ 12 ] []
+tvbm 2
+zjnz 4
+qpmq 3
+mvrv [ 'zjnz', '+', 'qpmq' ] [ 7 ] []
+qhbn [ 'tvbm', '*', 'mvrv' ] [ 14, 0 ] []
+dnzm 2
+wjjp [ 'qhbn', '/', 'dnzm' ] [ 7, 0 ] []
+hfvb [ 'hhsg', '+', 'wjjp' ] [ 19, 0 ] []
+cfjw [ 'cdpl', '*', 'hfvb' ] [ 57, 0, 0 ] []
+ttsz 3
+tdhb [ 'cfjw', '/', 'ttsz' ] [ 19, 0, 0 ] []
+zrpv [ 'wrrn', '+', 'tdhb' ] [ 33, 0, 0 ] []
+rcjj 2
+ntzw 5
+fnpb [ 'rcjj', '*', 'ntzw' ] [ 10, 0 ] []
+mdcg [ 'zrpv', '+', 'fnpb' ] [ 43, 0, 0 ] []
+fgpp 3
+bvsz [ 'mdcg', '*', 'fgpp' ] [ 129, 0, 0, 0 ] []
+nwzp 2
+rmlw 10
+pdfv [ 'nwzp', '*', 'rmlw' ] [ 20, 0 ] []
+nwzs 2
+gwzw [ 'pdfv', '/', 'nwzs' ] [ 10, 0 ] []
+vmdw [ 'bvsz', '+', 'gwzw' ] [ 139, 0, 0, 0 ] []
+mbzz [ 'rvbr', '*', 'vmdw' ] [ 417, 0, 0, 0, 0 ] []
+jqmb 6
+vhsw 1
+smnd [ 'jqmb', '+', 'vhsw' ] [ 7 ] []
+rcmw 3
+hmtf [ 'smnd', '*', 'rcmw' ] [ 21, 0 ] []
+pwdz 7
+rrth [ 'hmtf', '+', 'pwdz' ] [ 28, 0 ] []
+tzrj 4
+qtsr [ 'rrth', '+', 'tzrj' ] [ 32, 0 ] []
+sffj 2
+vrlj 4
+dwnz [ 'sffj', '*', 'vrlj' ] [ 8, 0 ] []
+tbnp 3
+jpdc [ 'dwnz', '*', 'tbnp' ] [ 24, 0, 0 ] []
+mzjz 2
+tbqd 11
+ljdc [ 'mzjz', '*', 'tbqd' ] [ 22, 0 ] []
+pjjv [ 'jpdc', '+', 'ljdc' ] [ 46, 0, 0 ] []
+zqhg 2
+cncf [ 'pjjv', '/', 'zqhg' ] [ 23, 0, 0 ] []
+rbns 2
+bmpl 17
+dzhh 2
+gnmr [ 'bmpl', '*', 'dzhh' ] [ 34, 0 ] []
+hlgp [ 'rbns', '*', 'gnmr' ] [ 68, 0, 0 ] []
+hmwg 2
+nvbm [ 'hlgp', '*', 'hmwg' ] [ 136, 0, 0, 0 ] []
+tbnl [ 'cncf', '+', 'nvbm' ] [ 159, 0, 0, 0 ] []
+sjbb [ 'qtsr', '+', 'tbnl' ] [ 191, 0, 0, 0 ] []
+npqj 3
+pfvw [ 'sjbb', '*', 'npqj' ] [ 573, 0, 0, 0, 0 ] []
+ppfj 2
+zbgb 2
+lzrg 4
+rpwp 2
+fhvh 7
+srgd [ 'rpwp', '*', 'fhvh' ] [ 14, 0 ] []
+bhzj 3
+hvqp [ 'srgd', '*', 'bhzj' ] [ 42, 0, 0 ] []
+glms 3
+jbbs [ 'hvqp', '+', 'glms' ] [ 45, 0, 0 ] []
+ggnp 2
+zbwh 11
+tpsn [ 'ggnp', '*', 'zbwh' ] [ 22, 0 ] []
+cmss [ 'jbbs', '+', 'tpsn' ] [ 67, 0, 0 ] []
+jgfr [ 'lzrg', '*', 'cmss' ] [ 268, 0, 0, 0 ] []
+tdrc 3
+bmrm 13
+jndm 3
+jmqg [ 'bmrm', '*', 'jndm' ] [ 39, 0 ] []
+fttl 7
+gsdn 3
+qjcr 7
+vmgd [ 'gsdn', '*', 'qjcr' ] [ 21, 0 ] []
+hshd [ 'fttl', '+', 'vmgd' ] [ 28, 0 ] []
+rcln [ 'jmqg', '+', 'hshd' ] [ 67, 0 ] []
+gnbc [ 'tdrc', '*', 'rcln' ] [ 201, 0, 0 ] []
+gpll 5
+dsqq 5
+lbwn [ 'gpll', '*', 'dsqq' ] [ 25, 0 ] []
+hnjd [ 'gnbc', '+', 'lbwn' ] [ 226, 0, 0 ] []
+fdmd 3
+pznr [ 'hnjd', '*', 'fdmd' ] [ 678, 0, 0, 0 ] []
+sdtl 2
+hhcw [ 'pznr', '/', 'sdtl' ] [ 339, 0, 0, 0 ] []
+wcmh 14
+shsf 2
+qqzn [ 'wcmh', '/', 'shsf' ] [ 7 ] []
+ffwp 18
+lhtb 5
+svwf 2
+fscf [ 'lhtb', '*', 'svwf' ] [ 10, 0 ] []
+dnqw 13
+tzcf [ 'fscf', '+', 'dnqw' ] [ 23, 0 ] []
+zlzr 4
+tzdl [ 'tzcf', '-', 'zlzr' ] [ 19, 0 ] []
+hcjz 3
+jlqz 3
+ptsm 6
+crwm [ 'jlqz', '+', 'ptsm' ] [ 9 ] []
+brjp [ 'hcjz', '*', 'crwm' ] [ 27, 0 ] []
+hprn [ 'tzdl', '+', 'brjp' ] [ 46, 0 ] []
+tpff 3
+qgpq 5
+dplj [ 'tpff', '*', 'qgpq' ] [ 15, 0 ] []
+gpgn [ 'hprn', '-', 'dplj' ] [ 31, 0 ] []
+djqb 3
+ltcv 3
+vjbd [ 'djqb', '*', 'ltcv' ] [ 9, 0 ] []
+pcms [ 'gpgn', '-', 'vjbd' ] [ 22, 0 ] []
+vjdw 2
+vfmr 18
+hzdp 2
+ppbl 6
+pbrj [ 'hzdp', '*', 'ppbl' ] [ 12, 0 ] []
+ccbg 1
+rdld [ 'pbrj', '-', 'ccbg' ] [ 11, 0 ] []
+qtmn [ 'vfmr', '+', 'rdld' ] [ 29, 0 ] []
+bfzs [ 'vjdw', '*', 'qtmn' ] [ 58, 0, 0 ] []
+wtdg [ 'pcms', '+', 'bfzs' ] [ 80, 0, 0 ] []
+ggrm 5
+rhlv [ 'wtdg', '/', 'ggrm' ] [ 16, 0, 0 ] []
+whlp 11
+vfnq 2
+pnfh [ 'whlp', '*', 'vfnq' ] [ 22, 0 ] []
+zdnq [ 'rhlv', '*', 'pnfh' ] [ 352, 0, 0, 0, 0 ] []
+crwn 3
+bbdp 20
+tdrp 11
+lzhl [ 'bbdp', '+', 'tdrp' ] [ 31 ] []
+zbdb 2
+grbz 7
+scld 2
+qwqc [ 'grbz', '*', 'scld' ] [ 14, 0 ] []
+fnpw [ 'zbdb', '*', 'qwqc' ] [ 28, 0, 0 ] []
+jnmg [ 'lzhl', '+', 'fnpw' ] [ 59, 0, 0 ] []
+vnht [ 'crwn', '*', 'jnmg' ] [ 177, 0, 0, 0 ] []
+cnnq [ 'zdnq', '+', 'vnht' ] [ 529, 0, 0, 0, 0 ] []
+rjrm [ 'ffwp', '+', 'cnnq' ] [ 547, 0, 0, 0, 0 ] []
+rfzg 19
+mqhj 7
+nfwc 5
+hgbf 2
+vvpr [ 'nfwc', '+', 'hgbf' ] [ 7 ] []
+rdtv [ 'mqhj', '*', 'vvpr' ] [ 49, 0 ] []
+cndh [ 'rfzg', '*', 'rdtv' ] [ 931, 0, 0 ] []
+rzdq 2
+crzc 2
+wfng 2
+fgzq 5
+cmhv [ 'wfng', '+', 'fgzq' ] [ 7 ] []
+hdgc [ 'crzc', '*', 'cmhv' ] [ 14, 0 ] []
+qllc 5
+qgwf [ 'hdgc', '+', 'qllc' ] [ 19, 0 ] []
+ccnv 18
+hqfs 2
+frmf 2
+lcbf 3
+bfsm 3
+nstq [ 'lcbf', '*', 'bfsm' ] [ 9, 0 ] []
+vqsb [ 'frmf', '+', 'nstq' ] [ 11, 0 ] []
+ghlq [ 'hqfs', '+', 'vqsb' ] [ 13, 0 ] []
+hvfl [ 'ccnv', '+', 'ghlq' ] [ 31, 0 ] []
+dbsd [ 'qgwf', '*', 'hvfl' ] [ 589, 0, 0, 0 ] []
+rrgs 2
+bflc 20
+vggr 3
+vqtf 3
+qjsf [ 'vggr', '*', 'vqtf' ] [ 9, 0 ] []
+mqlp 2
+ghpm [ 'qjsf', '+', 'mqlp' ] [ 11, 0 ] []
+sdtd [ 'bflc', '+', 'ghpm' ] [ 31, 0 ] []
+jbgs [ 'rrgs', '*', 'sdtd' ] [ 62, 0, 0 ] []
+ffss [ 'dbsd', '+', 'jbgs' ] [ 651, 0, 0, 0 ] []
+crqv 2
+vgzf 20
+zgwc 2
+gqwn [ 'vgzf', '*', 'zgwc' ] [ 40, 0 ] []
+fqtl 7
+jpqm 5
+lqgm [ 'fqtl', '*', 'jpqm' ] [ 35, 0 ] []
+czhm 17
+rdzt 3
+vcql [ 'czhm', '*', 'rdzt' ] [ 51, 0 ] []
+smfb 14
+cpqq [ 'vcql', '-', 'smfb' ] [ 37, 0 ] []
+gjmp [ 'lqgm', '+', 'cpqq' ] [ 72, 0 ] []
+stcm 1
+tcgg [ 'gjmp', '+', 'stcm' ] [ 73, 0 ] []
+ptfd [ 'gqwn', '+', 'tcgg' ] [ 113, 0 ] []
+nvbp 2
+vccc [ 'ptfd', '+', 'nvbp' ] [ 115, 0 ] []
+jrsn [ 'humn', '-', 'vccc' ] [ -115, 1 ] []
+plfr 3
+gcbd 11
+ljhh [ 'plfr', '*', 'gcbd' ] [ 33, 0 ] []
+rmzg [ 'jrsn', '*', 'ljhh' ] [ -3795, 33, 0, 0 ] []
+czct 4
+gqgs 2
+tblw 19
+vvms [ 'gqgs', '*', 'tblw' ] [ 38, 0 ] []
+lcmp 5
+ltmg [ 'vvms', '*', 'lcmp' ] [ 190, 0, 0 ] []
+ndgl [ 'czct', '+', 'ltmg' ] [ 194, 0, 0 ] []
+wnpz 5
+cdns [ 'ndgl', '*', 'wnpz' ] [ 970, 0, 0, 0 ] []
+jdhz [ 'rmzg', '+', 'cdns' ] [ -2825, 33, 0, 0 ] []
+wblw 2
+wmft [ 'jdhz', '/', 'wblw' ] [ -1412.5, 16.5, 0, 0 ] []
+mqrc 16
+hpmw 5
+wlfm [ 'mqrc', '-', 'hpmw' ] [ 11 ] []
+cgfw 2
+dgdb [ 'wlfm', '+', 'cgfw' ] [ 13 ] []
+htbz 3
+dldw 1
+nqlj 11
+ghzs 2
+qlwj [ 'nqlj', '*', 'ghzs' ] [ 22, 0 ] []
+pbfh [ 'dldw', '+', 'qlwj' ] [ 23, 0 ] []
+hjnt [ 'htbz', '*', 'pbfh' ] [ 69, 0, 0 ] []
+dqsm 2
+ppcp 5
+jllz 2
+brsz [ 'ppcp', '*', 'jllz' ] [ 10, 0 ] []
+rhmg [ 'dqsm', '*', 'brsz' ] [ 20, 0, 0 ] []
+gwvr [ 'hjnt', '-', 'rhmg' ] [ 49, 0, 0 ] []
+tfrf [ 'dgdb', '*', 'gwvr' ] [ 637, 0, 0, 0 ] []
+vbwl 11
+nmpt 2
+jvwt [ 'vbwl', '*', 'nmpt' ] [ 22, 0 ] []
+ttrs [ 'tfrf', '+', 'jvwt' ] [ 659, 0, 0, 0 ] []
+vsjn [ 'wmft', '-', 'ttrs' ] [ -2071.5, 16.5, 0, 0 ] []
+htrf [ 'crqv', '*', 'vsjn' ] [ -4143, 33, 0, 0, 0 ] []
+hsfr 6
+nfmr 8
+msvz 3
+hjlr [ 'nfmr', '*', 'msvz' ] [ 24, 0 ] []
+dscb 2
+mcvv 5
+fdsm [ 'dscb', '*', 'mcvv' ] [ 10, 0 ] []
+jcbz 2
+pmpz 2
+lcgg 3
+rgpb 4
+sqbt [ 'lcgg', '+', 'rgpb' ] [ 7 ] []
+ghcb [ 'pmpz', '*', 'sqbt' ] [ 14, 0 ] []
+qjdf 10
+rjpm 2
+hhqs [ 'qjdf', '+', 'rjpm' ] [ 12 ] []
+pptr [ 'ghcb', '+', 'hhqs' ] [ 26, 0 ] []
+bjqj 2
+bwnc [ 'pptr', '/', 'bjqj' ] [ 13, 0 ] []
+jnmd 15
+hmvt 4
+phnd [ 'jnmd', '+', 'hmvt' ] [ 19 ] []
+hdhv 4
+vwpd [ 'phnd', '+', 'hdhv' ] [ 23 ] []
+bdrp 7
+tlvr 5
+vrgq [ 'bdrp', '*', 'tlvr' ] [ 35, 0 ] []
+mbdp [ 'vwpd', '+', 'vrgq' ] [ 58, 0 ] []
+dbct 2
+zsgc [ 'mbdp', '/', 'dbct' ] [ 29, 0 ] []
+jqfb 2
+ftqj [ 'zsgc', '*', 'jqfb' ] [ 58, 0, 0 ] []
+qcmg [ 'bwnc', '+', 'ftqj' ] [ 71, 0, 0 ] []
+mgdm [ 'jcbz', '*', 'qcmg' ] [ 142, 0, 0, 0 ] []
+zcmw 3
+hmbn 3
+trpt [ 'zcmw', '*', 'hmbn' ] [ 9, 0 ] []
+bbwp 3
+sjmv [ 'trpt', '*', 'bbwp' ] [ 27, 0, 0 ] []
+pwsp 2
+frht 5
+gqlq [ 'pwsp', '*', 'frht' ] [ 10, 0 ] []
+wqzn [ 'sjmv', '*', 'gqlq' ] [ 270, 0, 0, 0, 0 ] []
+fjts 6
+hvnp [ 'wqzn', '/', 'fjts' ] [ 45, 0, 0, 0, 0 ] []
+pjtf [ 'mgdm', '-', 'hvnp' ] [ 97, 0, 0, 0, 0 ] []
+fmch [ 'fdsm', '+', 'pjtf' ] [ 107, 0, 0, 0, 0 ] []
+qqdg [ 'hjlr', '+', 'fmch' ] [ 131, 0, 0, 0, 0 ] []
+lqvv [ 'hsfr', '+', 'qqdg' ] [ 137, 0, 0, 0, 0 ] []
+nfdm 3
+lhzb [ 'lqvv', '*', 'nfdm' ] [ 411, 0, 0, 0, 0, 0 ] []
+phjz 6
+qdmr 1
+mwtr [ 'phjz', '+', 'qdmr' ] [ 7 ] []
+qrlj 3
+qcfd [ 'mwtr', '*', 'qrlj' ] [ 21, 0 ] []
+srzz 5
+qnzj [ 'qcfd', '+', 'srzz' ] [ 26, 0 ] []
+bfsv 2
+swss [ 'qnzj', '*', 'bfsv' ] [ 52, 0, 0 ] []
+fdnh 3
+cpld 3
+qzdc [ 'fdnh', '*', 'cpld' ] [ 9, 0 ] []
+blcq [ 'swss', '+', 'qzdc' ] [ 61, 0, 0 ] []
+lvts [ 'lhzb', '+', 'blcq' ] [ 472, 0, 0, 0, 0, 0 ] []
+pjrq [ 'htrf', '+', 'lvts' ] [ -3671, 33, 0, 0, 0, 0 ] []
+fhqd 2
+phdf [ 'pjrq', '/', 'fhqd' ] [ -1835.5, 16.5, 0, 0, 0, 0 ] []
+hssc [ 'ffss', '+', 'phdf' ] [ -1184.5, 16.5, 0, 0, 0, 0 ] []
+snpt [ 'rzdq', '*', 'hssc' ] [ -2369, 33, 0, 0, 0, 0, 0 ] []
+ppqz 4
+bfvm 2
+btsf 1
+hglw 2
+vgbq 3
+zmmj [ 'hglw', '*', 'vgbq' ] [ 6, 0 ] []
+vbdw [ 'btsf', '+', 'zmmj' ] [ 7, 0 ] []
+clmn 2
+vlqq [ 'vbdw', '*', 'clmn' ] [ 14, 0, 0 ] []
+vwst 8
+ndtg 9
+jvnn [ 'vwst', '*', 'ndtg' ] [ 72, 0 ] []
+drgw 3
+sqtt [ 'jvnn', '/', 'drgw' ] [ 24, 0 ] []
+hnpq [ 'vlqq', '+', 'sqtt' ] [ 38, 0, 0 ] []
+vljd 3
+fgzj [ 'hnpq', '+', 'vljd' ] [ 41, 0, 0 ] []
+ssfw [ 'bfvm', '+', 'fgzj' ] [ 43, 0, 0 ] []
+grtw [ 'ppqz', '*', 'ssfw' ] [ 172, 0, 0, 0 ] []
+vslz 4
+zlwz [ 'grtw', '/', 'vslz' ] [ 43, 0, 0, 0 ] []
+ltsg 2
+gphq 10
+hwbv [ 'ltsg', '*', 'gphq' ] [ 20, 0 ] []
+brtl [ 'zlwz', '+', 'hwbv' ] [ 63, 0, 0, 0 ] []
+gmmc 2
+fpgf 3
+dfmv 4
+zgfv 2
+cfdd 4
+vcnp 4
+ptsb [ 'cfdd', '*', 'vcnp' ] [ 16, 0 ] []
+qtdj [ 'zgfv', '*', 'ptsb' ] [ 32, 0, 0 ] []
+prmt 5
+fnlq [ 'qtdj', '+', 'prmt' ] [ 37, 0, 0 ] []
+msbf 6
+zpgt [ 'fnlq', '-', 'msbf' ] [ 31, 0, 0 ] []
+wfdj 12
+zpsc [ 'zpgt', '+', 'wfdj' ] [ 43, 0, 0 ] []
+dldj [ 'dfmv', '+', 'zpsc' ] [ 47, 0, 0 ] []
+rlhm [ 'fpgf', '*', 'dldj' ] [ 141, 0, 0, 0 ] []
+lbfh [ 'gmmc', '*', 'rlhm' ] [ 282, 0, 0, 0, 0 ] []
+nldf [ 'brtl', '+', 'lbfh' ] [ 345, 0, 0, 0, 0 ] []
+mdfh [ 'snpt', '-', 'nldf' ] [ -2714, 33, 0, 0, 0, 0, 0 ] []
+rfmr 4
+zrqm 8
+hfzl [ 'rfmr', '*', 'zrqm' ] [ 32, 0 ] []
+nvwp 11
+wmnw 2
+zcwq [ 'nvwp', '*', 'wmnw' ] [ 22, 0 ] []
+vwbg [ 'hfzl', '*', 'zcwq' ] [ 704, 0, 0, 0 ] []
+wncc [ 'mdfh', '+', 'vwbg' ] [ -2010, 33, 0, 0, 0, 0, 0 ] []
+fjrl 3
+grqq [ 'wncc', '/', 'fjrl' ] [ -670, 11, 0, 0, 0, 0, 0 ] []
+shmb 2
+wdjs 4
+pjdq 5
+ghsw 2
+vrlw 3
+ljnm 4
+ctjh [ 'vrlw', '*', 'ljnm' ] [ 12, 0 ] []
+gzdg 1
+vvmv [ 'ctjh', '+', 'gzdg' ] [ 13, 0 ] []
+fztq [ 'ghsw', '*', 'vvmv' ] [ 26, 0, 0 ] []
+jwjr [ 'pjdq', '+', 'fztq' ] [ 31, 0, 0 ] []
+rgzf [ 'wdjs', '*', 'jwjr' ] [ 124, 0, 0, 0 ] []
+hcqv 13
+trqj 3
+dnvr [ 'hcqv', '*', 'trqj' ] [ 39, 0 ] []
+cqrv [ 'rgzf', '+', 'dnvr' ] [ 163, 0, 0, 0 ] []
+bwrs 2
+mjfl [ 'cqrv', '*', 'bwrs' ] [ 326, 0, 0, 0, 0 ] []
+wvvd [ 'shmb', '*', 'mjfl' ] [ 652, 0, 0, 0, 0, 0 ] []
+wqld [ 'grqq', '+', 'wvvd' ] [ -18, 11, 0, 0, 0, 0, 0 ] []
+rhgq 2
+jwqh 3
+pffg 7
+hqmm [ 'jwqh', '*', 'pffg' ] [ 21, 0 ] []
+vbhq [ 'rhgq', '*', 'hqmm' ] [ 42, 0, 0 ] []
+qqjr 2
+mzzt 4
+zbvn 4
+bpnr [ 'mzzt', '*', 'zbvn' ] [ 16, 0 ] []
+qccq 3
+vsgz [ 'bpnr', '*', 'qccq' ] [ 48, 0, 0 ] []
+nbtc 4
+llzn 2
+dwjj [ 'nbtc', '*', 'llzn' ] [ 8, 0 ] []
+wlvc 1
+cptm [ 'dwjj', '-', 'wlvc' ] [ 7, 0 ] []
+cnnn [ 'vsgz', '-', 'cptm' ] [ 41, 0, 0 ] []
+ltvb 10
+gqfj 2
+rzcc [ 'ltvb', '+', 'gqfj' ] [ 12 ] []
+dtsp [ 'cnnn', '-', 'rzcc' ] [ 29, 0, 0 ] []
+vmcc [ 'qqjr', '*', 'dtsp' ] [ 58, 0, 0, 0 ] []
+fpbf 5
+pzcj [ 'vmcc', '*', 'fpbf' ] [ 290, 0, 0, 0, 0 ] []
+jwph 5
+blqt [ 'pzcj', '/', 'jwph' ] [ 58, 0, 0, 0, 0 ] []
+nwjr [ 'vbhq', '+', 'blqt' ] [ 100, 0, 0, 0, 0 ] []
+srfq 5
+gsgc [ 'nwjr', '*', 'srfq' ] [ 500, 0, 0, 0, 0, 0 ] []
+spfd [ 'wqld', '+', 'gsgc' ] [ 482, 11, 0, 0, 0, 0, 0 ] []
+bgls 3
+cbhd [ 'spfd', '/', 'bgls' ] [ 160.66666666666666, 3.6666666666666665, 0, 0, 0, 0, 0 ] []
+bzrm 2
+rsth 7
+vmbf 3
+szln 3
+chlz 4
+rrmj [ 'szln', '*', 'chlz' ] [ 12, 0 ] []
+ngnn 2
+dhzs [ 'rrmj', '-', 'ngnn' ] [ 10, 0 ] []
+vfzf [ 'vmbf', '*', 'dhzs' ] [ 30, 0, 0 ] []
+nftn 1
+mhqd [ 'vfzf', '-', 'nftn' ] [ 29, 0, 0 ] []
+vprf 3
+tqbz 3
+nrjf [ 'vprf', '*', 'tqbz' ] [ 9, 0 ] []
+zfbh 7
+dzpb [ 'nrjf', '*', 'zfbh' ] [ 63, 0, 0 ] []
+vbgn 9
+mmcz 5
+bgsd [ 'vbgn', '*', 'mmcz' ] [ 45, 0 ] []
+sszn 3
+drqg 14
+fjph [ 'sszn', '*', 'drqg' ] [ 42, 0 ] []
+nvfq 2
+bjrm [ 'fjph', '/', 'nvfq' ] [ 21, 0 ] []
+zdhf 3
+qhlf [ 'bjrm', '+', 'zdhf' ] [ 24, 0 ] []
+scsr 1
+jtpg [ 'qhlf', '+', 'scsr' ] [ 25, 0 ] []
+dphf [ 'bgsd', '+', 'jtpg' ] [ 70, 0 ] []
+lpqv 3
+cszb [ 'dphf', '+', 'lpqv' ] [ 73, 0 ] []
+mwdr 3
+mfwp 3
+gpsg [ 'mwdr', '*', 'mfwp' ] [ 9, 0 ] []
+rqsn [ 'cszb', '-', 'gpsg' ] [ 64, 0 ] []
+dbmm [ 'dzpb', '+', 'rqsn' ] [ 127, 0, 0 ] []
+nhsw 2
+wnhv [ 'dbmm', '*', 'nhsw' ] [ 254, 0, 0, 0 ] []
+bjmd [ 'mhqd', '+', 'wnhv' ] [ 283, 0, 0, 0 ] []
+msft [ 'rsth', '*', 'bjmd' ] [ 1981, 0, 0, 0, 0 ] []
+dpcp 7
+lppd [ 'msft', '/', 'dpcp' ] [ 283, 0, 0, 0, 0 ] []
+pptt [ 'bzrm', '*', 'lppd' ] [ 566, 0, 0, 0, 0, 0 ] []
+twcs [ 'cbhd', '-', 'pptt' ] [ -405.33333333333337, 3.6666666666666665, 0, 0, 0, 0, 0 ] []
+bjlq 3
+gwth [ 'twcs', '*', 'bjlq' ] [ -1216, 11, 0, 0, 0, 0, 0, 0 ] []
+gdpr 10
+tvjs 6
+pjgt [ 'gdpr', '*', 'tvjs' ] [ 60, 0 ] []
+dsqn 16
+pphb 2
+cssm [ 'dsqn', '*', 'pphb' ] [ 32, 0 ] []
+wgtz 11
+ftcz [ 'cssm', '+', 'wgtz' ] [ 43, 0 ] []
+jhqf [ 'pjgt', '+', 'ftcz' ] [ 103, 0 ] []
+pvjp 7
+mrsb [ 'jhqf', '*', 'pvjp' ] [ 721, 0, 0 ] []
+qgjq [ 'gwth', '-', 'mrsb' ] [ -1937, 11, 0, 0, 0, 0, 0, 0 ] []
+tdvr 5
+jlmr [ 'qgjq', '/', 'tdvr' ] [ -387.4, 2.2, 0, 0, 0, 0, 0, 0 ] []
+qfbp [ 'cndh', '+', 'jlmr' ] [ 543.6, 2.2, 0, 0, 0, 0, 0, 0 ] []
+lpjd 3
+fjhs 2
+gswc [ 'lpjd', '*', 'fjhs' ] [ 6, 0 ] []
+qmtd [ 'qfbp', '*', 'gswc' ] [ 3261.6000000000004, 13.200000000000001, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+lhfn 2
+gwqg 2
+lprp 3
+hzzp 11
+jsnc [ 'lprp', '+', 'hzzp' ] [ 14 ] []
+nvjj 2
+lqgp [ 'jsnc', '/', 'nvjj' ] [ 7 ] []
+ghrg 5
+ttst 2
+htjs 6
+wmlw [ 'ttst', '+', 'htjs' ] [ 8 ] []
+dmzb [ 'ghrg', '+', 'wmlw' ] [ 13 ] []
+vszp [ 'lqgp', '*', 'dmzb' ] [ 91, 0 ] []
+ntnr 4
+ggdm 5
+jbdl 3
+rpjd [ 'ggdm', '*', 'jbdl' ] [ 15, 0 ] []
+gpvr [ 'ntnr', '*', 'rpjd' ] [ 60, 0, 0 ] []
+rbdr [ 'vszp', '+', 'gpvr' ] [ 151, 0, 0 ] []
+jqzm 2
+ttgr [ 'rbdr', '*', 'jqzm' ] [ 302, 0, 0, 0 ] []
+dpjh 2
+tdlt [ 'ttgr', '/', 'dpjh' ] [ 151, 0, 0, 0 ] []
+mjpv [ 'gwqg', '*', 'tdlt' ] [ 302, 0, 0, 0, 0 ] []
+rbnc 2
+ggzj [ 'mjpv', '/', 'rbnc' ] [ 151, 0, 0, 0, 0 ] []
+qtrs [ 'lhfn', '*', 'ggzj' ] [ 302, 0, 0, 0, 0, 0 ] []
+qvwb [ 'qmtd', '-', 'qtrs' ] [ 2959.6000000000004, 13.200000000000001, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+mvml 4
+znvw [ 'qvwb', '/', 'mvml' ] [ 739.9000000000001, 3.3000000000000003, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+mrzz [ 'rjrm', '+', 'znvw' ] [ 1286.9, 3.3000000000000003, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+lrzs [ 'qqzn', '*', 'mrzz' ] [ 9008.300000000001, 23.1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+qswb [ 'hhcw', '+', 'lrzs' ] [ 9347.300000000001, 23.1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+jdrt 2
+bjvr [ 'qswb', '/', 'jdrt' ] [ 4673.650000000001, 11.55, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+vhpf 9
+nmcw 3
+szqb [ 'vhpf', '*', 'nmcw' ] [ 27, 0 ] []
+tfqr 5
+dbrz [ 'szqb', '*', 'tfqr' ] [ 135, 0, 0 ] []
+vlll 4
+jstr 13
+hllw [ 'vlll', '*', 'jstr' ] [ 52, 0 ] []
+qftt 17
+wscn 3
+hqng [ 'qftt', '*', 'wscn' ] [ 51, 0 ] []
+mfcm [ 'hllw', '+', 'hqng' ] [ 103, 0 ] []
+qfvs 6
+qgpd [ 'mfcm', '+', 'qfvs' ] [ 109, 0 ] []
+trnb 2
+gdlh [ 'qgpd', '*', 'trnb' ] [ 218, 0, 0 ] []
+szcv [ 'dbrz', '+', 'gdlh' ] [ 353, 0, 0 ] []
+sjmg [ 'bjvr', '-', 'szcv' ] [ 4320.650000000001, 11.55, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+trml 3
+gbvt [ 'sjmg', '*', 'trml' ] [ 12961.95, 34.650000000000006, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+lddb [ 'jgfr', '+', 'gbvt' ] [ 13229.95, 34.650000000000006, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+glpn [ 'zbgb', '*', 'lddb' ] [ 26459.9, 69.30000000000001, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+mvgd 19
+ptrg 4
+vhnr [ 'mvgd', '*', 'ptrg' ] [ 76, 0 ] []
+jwgh 5
+qtzz [ 'vhnr', '*', 'jwgh' ] [ 380, 0, 0 ] []
+jjbz [ 'glpn', '-', 'qtzz' ] [ 26079.9, 69.30000000000001, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+llwg 2
+fnfl [ 'jjbz', '/', 'llwg' ] [ 13039.95, 34.650000000000006, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+qsdp 2
+jhfg 3
+wwdl [ 'qsdp', '*', 'jhfg' ] [ 6, 0 ] []
+zfch 2
+qmfw 3
+rjjq [ 'zfch', '*', 'qmfw' ] [ 6, 0 ] []
+zwjz 3
+psdz 3
+wvrt [ 'zwjz', '*', 'psdz' ] [ 9, 0 ] []
+lfqp [ 'rjjq', '*', 'wvrt' ] [ 54, 0, 0, 0 ] []
+bchb 3
+fmzv 3
+tjjl [ 'bchb', '*', 'fmzv' ] [ 9, 0 ] []
+tjws 2
+njsh [ 'tjjl', '-', 'tjws' ] [ 7, 0 ] []
+ngls [ 'lfqp', '-', 'njsh' ] [ 47, 0, 0, 0 ] []
+zwlw 2
+jcdb [ 'ngls', '*', 'zwlw' ] [ 94, 0, 0, 0, 0 ] []
+bwnl 5
+jhvn 5
+svdj [ 'bwnl', '*', 'jhvn' ] [ 25, 0 ] []
+qfbj [ 'jcdb', '-', 'svdj' ] [ 69, 0, 0, 0, 0 ] []
+rjcv 3
+wsmb [ 'qfbj', '/', 'rjcv' ] [ 23, 0, 0, 0, 0 ] []
+rrdh [ 'wwdl', '+', 'wsmb' ] [ 29, 0, 0, 0, 0 ] []
+mwsc 4
+bcbr [ 'rrdh', '-', 'mwsc' ] [ 25, 0, 0, 0, 0 ] []
+mblb 4
+cvpm [ 'bcbr', '*', 'mblb' ] [ 100, 0, 0, 0, 0, 0 ] []
+fhjr 5
+rvwl [ 'cvpm', '*', 'fhjr' ] [ 500, 0, 0, 0, 0, 0, 0 ] []
+dzqm [ 'fnfl', '+', 'rvwl' ] [ 13539.95, 34.650000000000006, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+mtzr 5
+lcbr [ 'dzqm', '/', 'mtzr' ] [ 2707.9900000000002, 6.9300000000000015, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+cmlp 16
+cqqn 2
+mssm [ 'cmlp', '*', 'cqqn' ] [ 32, 0 ] []
+nnfb 9
+hbbh 3
+tzgp [ 'nnfb', '*', 'hbbh' ] [ 27, 0 ] []
+gvtt [ 'mssm', '+', 'tzgp' ] [ 59, 0 ] []
+fghl 3
+dblm 5
+hsdj 13
+rcgt [ 'dblm', '*', 'hsdj' ] [ 65, 0 ] []
+hqcc [ 'fghl', '*', 'rcgt' ] [ 195, 0, 0 ] []
+mzwt 4
+vpgr [ 'hqcc', '+', 'mzwt' ] [ 199, 0, 0 ] []
+cwzt 2
+btwc [ 'vpgr', '*', 'cwzt' ] [ 398, 0, 0, 0 ] []
+zdfq [ 'gvtt', '+', 'btwc' ] [ 457, 0, 0, 0 ] []
+bjmt [ 'lcbr', '-', 'zdfq' ] [ 2250.9900000000002, 6.9300000000000015, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+qqph [ 'ppfj', '*', 'bjmt' ] [ 4501.9800000000005,
+  13.860000000000003,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+tfsc 3
+hgbq 3
+lpzp [ 'tfsc', '*', 'hgbq' ] [ 9, 0 ] []
+zglh 3
+pbsc [ 'lpzp', '*', 'zglh' ] [ 27, 0, 0 ] []
+sgzw 4
+ggtd [ 'pbsc', '+', 'sgzw' ] [ 31, 0, 0 ] []
+ggrp 6
+vpvz 9
+ggsq 1
+nrvn [ 'vpvz', '+', 'ggsq' ] [ 10 ] []
+wjgw [ 'ggrp', '*', 'nrvn' ] [ 60, 0 ] []
+phrj [ 'ggtd', '*', 'wjgw' ] [ 1860, 0, 0, 0, 0 ] []
+fthr 2
+hjbb [ 'phrj', '/', 'fthr' ] [ 930, 0, 0, 0, 0 ] []
+lcbp [ 'qqph', '-', 'hjbb' ] [ 3571.9800000000005,
+  13.860000000000003,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+brcs 2
+wntf [ 'lcbp', '*', 'brcs' ] [ 7143.960000000001,
+  27.720000000000006,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+pgzl 5
+lfmw 3
+fgwr [ 'pgzl', '*', 'lfmw' ] [ 15, 0 ] []
+twnp 3
+gwlv 8
+pmtf [ 'twnp', '*', 'gwlv' ] [ 24, 0 ] []
+zzbj [ 'fgwr', '*', 'pmtf' ] [ 360, 0, 0, 0 ] []
+vngs [ 'wntf', '+', 'zzbj' ] [ 7503.960000000001,
+  27.720000000000006,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+lnfc 4
+jpmd [ 'vngs', '/', 'lnfc' ] [ 1875.9900000000002,
+  6.9300000000000015,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+mqql 5
+gvhj 4
+zqqw 6
+lsdv [ 'gvhj', '*', 'zqqw' ] [ 24, 0 ] []
+gfrl 2
+whlm [ 'lsdv', '/', 'gfrl' ] [ 12, 0 ] []
+vzhs 5
+dccr [ 'whlm', '*', 'vzhs' ] [ 60, 0, 0 ] []
+dvcm 7
+pntc 11
+gwtt [ 'dvcm', '*', 'pntc' ] [ 77, 0 ] []
+cqld [ 'dccr', '+', 'gwtt' ] [ 137, 0, 0 ] []
+ddvt [ 'mqql', '*', 'cqld' ] [ 685, 0, 0, 0 ] []
+fnhg [ 'jpmd', '-', 'ddvt' ] [ 1190.9900000000002,
+  6.9300000000000015,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+nctv 3
+ptwl [ 'fnhg', '*', 'nctv' ] [ 3572.9700000000007,
+  20.790000000000006,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+jhlb 8
+qwgn 5
+vbhb [ 'jhlb', '+', 'qwgn' ] [ 13 ] []
+mjmz 2
+qbtd 4
+fhpr 2
+cdrw [ 'qbtd', '*', 'fhpr' ] [ 8, 0 ] []
+qvlf 3
+gvjc 3
+zgzh [ 'qvlf', '*', 'gvjc' ] [ 9, 0 ] []
+wzdf 4
+snzr [ 'zgzh', '+', 'wzdf' ] [ 13, 0 ] []
+mnzg 2
+bmpd [ 'snzr', '*', 'mnzg' ] [ 26, 0, 0 ] []
+tjsn [ 'cdrw', '+', 'bmpd' ] [ 34, 0, 0 ] []
+cldt 3
+pvpc [ 'tjsn', '+', 'cldt' ] [ 37, 0, 0 ] []
+vdlz [ 'mjmz', '*', 'pvpc' ] [ 74, 0, 0, 0 ] []
+ftww [ 'vbhb', '*', 'vdlz' ] [ 962, 0, 0, 0, 0 ] []
+fvzg [ 'ptwl', '+', 'ftww' ] [ 4534.970000000001,
+  20.790000000000006,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+vltg 2
+slnr 3
+gvvq 3
+sjzg [ 'slnr', '*', 'gvvq' ] [ 9, 0 ] []
+pttj [ 'vltg', '+', 'sjzg' ] [ 11, 0 ] []
+qgmz [ 'fvzg', '/', 'pttj' ] [ 412.2700000000001,
+  1.8900000000000006,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+prjn 2
+qpft 10
+jtwv 2
+rnlv [ 'qpft', '-', 'jtwv' ] [ 8 ] []
+tqlw [ 'prjn', '*', 'rnlv' ] [ 16, 0 ] []
+bdmc 5
+svmz [ 'tqlw', '-', 'bdmc' ] [ 11, 0 ] []
+pnqg 3
+vwnv [ 'svmz', '*', 'pnqg' ] [ 33, 0, 0 ] []
+vhhw 5
+mlwp 2
+lztw [ 'vhhw', '*', 'mlwp' ] [ 10, 0 ] []
+smhv [ 'vwnv', '+', 'lztw' ] [ 43, 0, 0 ] []
+rpzm 3
+vwjg 2
+gvpp [ 'rpzm', '*', 'vwjg' ] [ 6, 0 ] []
+vsbz [ 'smhv', '-', 'gvpp' ] [ 37, 0, 0 ] []
+rccm 8
+hhrp [ 'vsbz', '-', 'rccm' ] [ 29, 0, 0 ] []
+lggl 3
+lbgs [ 'hhrp', '*', 'lggl' ] [ 87, 0, 0, 0 ] []
+mrtw 2
+vvfl 5
+mgtl 5
+pwlb [ 'vvfl', '*', 'mgtl' ] [ 25, 0 ] []
+bqtj 12
+ntqf 1
+vtch [ 'bqtj', '+', 'ntqf' ] [ 13 ] []
+phnt 6
+hnpw [ 'vtch', '*', 'phnt' ] [ 78, 0 ] []
+bfmq [ 'pwlb', '+', 'hnpw' ] [ 103, 0 ] []
+hvzg 4
+dftv 4
+cmsp [ 'hvzg', '+', 'dftv' ] [ 8 ] []
+mhws 4
+tpct [ 'cmsp', '*', 'mhws' ] [ 32, 0 ] []
+vtwc [ 'bfmq', '-', 'tpct' ] [ 71, 0 ] []
+wnzm 8
+mlbg [ 'vtwc', '+', 'wnzm' ] [ 79, 0 ] []
+qrbj 16
+hqtz [ 'mlbg', '*', 'qrbj' ] [ 1264, 0, 0 ] []
+nrds 4
+mqdf 2
+vstc [ 'nrds', '*', 'mqdf' ] [ 8, 0 ] []
+fssf [ 'hqtz', '/', 'vstc' ] [ 158, 0, 0 ] []
+tflm 2
+whrj [ 'fssf', '/', 'tflm' ] [ 79, 0, 0 ] []
+cmcn [ 'mrtw', '*', 'whrj' ] [ 158, 0, 0, 0 ] []
+plwd 2
+lfht 2
+nwds 10
+zwzl 13
+pcmb [ 'nwds', '+', 'zwzl' ] [ 23 ] []
+tlnt 3
+hncj [ 'pcmb', '*', 'tlnt' ] [ 69, 0 ] []
+ghrw [ 'lfht', '+', 'hncj' ] [ 71, 0 ] []
+vdqh 3
+msww [ 'ghrw', '*', 'vdqh' ] [ 213, 0, 0 ] []
+frsn 2
+wmgc 2
+shrw 4
+cgzs 2
+vgfc [ 'shrw', '*', 'cgzs' ] [ 8, 0 ] []
+pcbc [ 'wmgc', '+', 'vgfc' ] [ 10, 0 ] []
+fftf 3
+lgsc 3
+rngl 15
+hlfs [ 'lgsc', '*', 'rngl' ] [ 45, 0 ] []
+dftp 3
+zsjd [ 'hlfs', '/', 'dftp' ] [ 15, 0 ] []
+qdmd [ 'fftf', '*', 'zsjd' ] [ 45, 0, 0 ] []
+gwtc [ 'pcbc', '+', 'qdmd' ] [ 55, 0, 0 ] []
+nnwm 14
+vcjn [ 'gwtc', '-', 'nnwm' ] [ 41, 0, 0 ] []
+tcrj [ 'frsn', '*', 'vcjn' ] [ 82, 0, 0, 0 ] []
+zshl 4
+hhzf [ 'tcrj', '*', 'zshl' ] [ 328, 0, 0, 0, 0 ] []
+zfvd [ 'msww', '+', 'hhzf' ] [ 541, 0, 0, 0, 0 ] []
+tgms 5
+zmvg 17
+jfpp [ 'tgms', '*', 'zmvg' ] [ 85, 0 ] []
+mqtw 8
+llff 4
+jrhm [ 'mqtw', '*', 'llff' ] [ 32, 0 ] []
+btgz 4
+zswl 7
+wwdz [ 'btgz', '*', 'zswl' ] [ 28, 0 ] []
+zwtr [ 'jrhm', '+', 'wwdz' ] [ 60, 0 ] []
+rwjl [ 'jfpp', '+', 'zwtr' ] [ 145, 0 ] []
+jfhr [ 'zfvd', '-', 'rwjl' ] [ 396, 0, 0, 0, 0 ] []
+nqhr 4
+trpd 2
+dlst 2
+vpzz 7
+nvpm [ 'dlst', '*', 'vpzz' ] [ 14, 0 ] []
+tpjg [ 'trpd', '*', 'nvpm' ] [ 28, 0, 0 ] []
+cdzl [ 'nqhr', '*', 'tpjg' ] [ 112, 0, 0, 0 ] []
+jpjg [ 'jfhr', '-', 'cdzl' ] [ 284, 0, 0, 0, 0 ] []
+tjlp 5
+ccmj 3
+nhgw 3
+drhw [ 'ccmj', '+', 'nhgw' ] [ 6 ] []
+fbgv [ 'tjlp', '*', 'drhw' ] [ 30, 0 ] []
+zpqm 7
+dnss [ 'fbgv', '-', 'zpqm' ] [ 23, 0 ] []
+jhqc [ 'jpjg', '+', 'dnss' ] [ 307, 0, 0, 0, 0 ] []
+mfbh [ 'plwd', '*', 'jhqc' ] [ 614, 0, 0, 0, 0, 0 ] []
+pwmw [ 'cmcn', '+', 'mfbh' ] [ 772, 0, 0, 0, 0, 0 ] []
+grvw [ 'lbgs', '+', 'pwmw' ] [ 859, 0, 0, 0, 0, 0 ] []
+wpjd [ 'qgmz', '-', 'grvw' ] [ -446.7299999999999,
+  1.8900000000000006,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+rdsf 2
+cdpt [ 'wpjd', '/', 'rdsf' ] [ -223.36499999999995,
+  0.9450000000000003,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+tgbl [ 'pfvw', '+', 'cdpt' ] [ 349.63500000000005,
+  0.9450000000000003,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+nthr 6
+dwhg 5
+gwcq 6
+dzvv [ 'dwhg', '+', 'gwcq' ] [ 11 ] []
+ffjz 3
+fznd [ 'dzvv', '+', 'ffjz' ] [ 14 ] []
+wwbb 3
+thcm [ 'fznd', '+', 'wwbb' ] [ 17 ] []
+ncvf [ 'nthr', '*', 'thcm' ] [ 102, 0 ] []
+wdvd 4
+jfgl 8
+jgbf [ 'wdvd', '*', 'jfgl' ] [ 32, 0 ] []
+wnfn [ 'ncvf', '-', 'jgbf' ] [ 70, 0 ] []
+pzrb 2
+gbqq [ 'wnfn', '/', 'pzrb' ] [ 35, 0 ] []
+msjs [ 'tgbl', '*', 'gbqq' ] [ 12237.225000000002,
+  33.07500000000001,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+zpmf 2
+hwjb 4
+gtrw 9
+lrdn [ 'hwjb', '*', 'gtrw' ] [ 36, 0 ] []
+qnsp 3
+dsnc 4
+blgq [ 'qnsp', '+', 'dsnc' ] [ 7 ] []
+qngr [ 'lrdn', '-', 'blgq' ] [ 29, 0 ] []
+stnn [ 'zpmf', '*', 'qngr' ] [ 58, 0, 0 ] []
+mnnz 2
+pvqq [ 'stnn', '*', 'mnnz' ] [ 116, 0, 0, 0 ] []
+wqfq 2
+wgls 3
+wvlf 20
+rvqz [ 'wgls', '+', 'wvlf' ] [ 23 ] []
+hcnw 2
+bcms [ 'rvqz', '*', 'hcnw' ] [ 46, 0 ] []
+rpbw 1
+nvfj [ 'bcms', '+', 'rpbw' ] [ 47, 0 ] []
+gtmz [ 'wqfq', '*', 'nvfj' ] [ 94, 0, 0 ] []
+ppbw 2
+vjvb [ 'gtmz', '*', 'ppbw' ] [ 188, 0, 0, 0 ] []
+fclh 4
+zplm 2
+wqps 5
+vgcp 13
+jvls 2
+zlsp [ 'vgcp', '*', 'jvls' ] [ 26, 0 ] []
+zjjd [ 'wqps', '+', 'zlsp' ] [ 31, 0 ] []
+wwvz [ 'zplm', '*', 'zjjd' ] [ 62, 0, 0 ] []
+hzcv [ 'fclh', '*', 'wwvz' ] [ 248, 0, 0, 0 ] []
+sgrs [ 'vjvb', '+', 'hzcv' ] [ 436, 0, 0, 0 ] []
+cdnm [ 'pvqq', '+', 'sgrs' ] [ 552, 0, 0, 0 ] []
+ftbc [ 'msjs', '+', 'cdnm' ] [ 12789.225000000002,
+  33.07500000000001,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+zwtf 4
+nzlf [ 'ftbc', '/', 'zwtf' ] [ 3197.3062500000005,
+  8.268750000000002,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+nsvr 4
+gbfm 3
+lnlm 3
+cwcn 3
+plpp [ 'lnlm', '*', 'cwcn' ] [ 9, 0 ] []
+trjs [ 'gbfm', '*', 'plpp' ] [ 27, 0, 0 ] []
+mfwt 4
+wtqn [ 'trjs', '+', 'mfwt' ] [ 31, 0, 0 ] []
+phsb 10
+sfqt 3
+zqgd [ 'phsb', '-', 'sfqt' ] [ 7 ] []
+bpsw 6
+zlbj 2
+mhvc [ 'bpsw', '*', 'zlbj' ] [ 12, 0 ] []
+qwhz 3
+nrbb [ 'mhvc', '*', 'qwhz' ] [ 36, 0, 0 ] []
+mvsg [ 'zqgd', '+', 'nrbb' ] [ 43, 0, 0 ] []
+zpgj 5
+nchr 6
+nnrt [ 'zpgj', '+', 'nchr' ] [ 11 ] []
+cqpb 5
+tlcb 2
+cqcf [ 'cqpb', '*', 'tlcb' ] [ 10, 0 ] []
+fvdn 2
+cccg [ 'cqcf', '+', 'fvdn' ] [ 12, 0 ] []
+trcq [ 'nnrt', '+', 'cccg' ] [ 23, 0 ] []
+vvvp [ 'mvsg', '+', 'trcq' ] [ 66, 0, 0 ] []
+jllw [ 'wtqn', '+', 'vvvp' ] [ 97, 0, 0 ] []
+dbmt [ 'nsvr', '*', 'jllw' ] [ 388, 0, 0, 0 ] []
+dlss 12
+qvdh 4
+rnwv 3
+tsbc 4
+gcqn [ 'rnwv', '+', 'tsbc' ] [ 7 ] []
+mzpp [ 'qvdh', '*', 'gcqn' ] [ 28, 0 ] []
+gpms [ 'dlss', '*', 'mzpp' ] [ 336, 0, 0 ] []
+npml 5
+hhzq 5
+pfql 4
+zvls 7
+lsdz [ 'pfql', '+', 'zvls' ] [ 11 ] []
+sqwf [ 'hhzq', '*', 'lsdz' ] [ 55, 0 ] []
+nbsm [ 'npml', '*', 'sqwf' ] [ 275, 0, 0 ] []
+ndhl [ 'gpms', '+', 'nbsm' ] [ 611, 0, 0 ] []
+vpzc [ 'dbmt', '+', 'ndhl' ] [ 999, 0, 0, 0 ] []
+nlgw [ 'nzlf', '-', 'vpzc' ] [ 2198.3062500000005,
+  8.268750000000002,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+dfhr 4
+nlsj [ 'nlgw', '*', 'dfhr' ] [ 8793.225000000002,
+  33.07500000000001,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+rrpg [ 'mbzz', '+', 'nlsj' ] [ 9210.225000000002,
+  33.07500000000001,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+rzfw 2
+wprj [ 'rrpg', '*', 'rzfw' ] [ 18420.450000000004,
+  66.15000000000002,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+wzpj 3
+mmrh 3
+hpct [ 'wzpj', '*', 'mmrh' ] [ 9, 0 ] []
+bqml 2
+ncts 1
+zjjs 6
+dvfc [ 'ncts', '+', 'zjjs' ] [ 7 ] []
+tftl [ 'bqml', '*', 'dvfc' ] [ 14, 0 ] []
+wtlj 2
+chzc [ 'tftl', '*', 'wtlj' ] [ 28, 0, 0 ] []
+qbsj [ 'hpct', '+', 'chzc' ] [ 37, 0, 0 ] []
+nmjc 2
+fjfz 4
+qwtv 3
+zvwf [ 'fjfz', '+', 'qwtv' ] [ 7 ] []
+mhft 2
+lcmb [ 'zvwf', '*', 'mhft' ] [ 14, 0 ] []
+lllr 3
+rsbm [ 'lcmb', '+', 'lllr' ] [ 17, 0 ] []
+drhp [ 'nmjc', '*', 'rsbm' ] [ 34, 0, 0 ] []
+jsws [ 'qbsj', '+', 'drhp' ] [ 71, 0, 0 ] []
+dgdv 2
+zncq [ 'jsws', '+', 'dgdv' ] [ 73, 0, 0 ] []
+nzws 6
+vgrq [ 'zncq', '-', 'nzws' ] [ 67, 0, 0 ] []
+szpf 20
+jlhp [ 'vgrq', '-', 'szpf' ] [ 47, 0, 0 ] []
+nmlm 3
+mvsq 5
+dqbz 5
+htrd [ 'mvsq', '*', 'dqbz' ] [ 25, 0 ] []
+bqvv [ 'nmlm', '*', 'htrd' ] [ 75, 0, 0 ] []
+hmrw [ 'jlhp', '+', 'bqvv' ] [ 122, 0, 0 ] []
+mrhc 2
+plzm [ 'hmrw', '*', 'mrhc' ] [ 244, 0, 0, 0 ] []
+rqvn 15
+qlch 2
+tgqw 3
+wnwt 3
+tzmz [ 'tgqw', '*', 'wnwt' ] [ 9, 0 ] []
+frmz 3
+mgpr [ 'tzmz', '*', 'frmz' ] [ 27, 0, 0 ] []
+hdvw 10
+fcjb [ 'mgpr', '+', 'hdvw' ] [ 37, 0, 0 ] []
+hznm 2
+lbvm 3
+nsqd [ 'hznm', '*', 'lbvm' ] [ 6, 0 ] []
+rjsv [ 'fcjb', '*', 'nsqd' ] [ 222, 0, 0, 0, 0 ] []
+npjr 3
+qlgv [ 'rjsv', '/', 'npjr' ] [ 74, 0, 0, 0, 0 ] []
+csss 2
+fnhm [ 'qlgv', '/', 'csss' ] [ 37, 0, 0, 0, 0 ] []
+rshh [ 'qlch', '*', 'fnhm' ] [ 74, 0, 0, 0, 0, 0 ] []
+gnjf [ 'rqvn', '+', 'rshh' ] [ 89, 0, 0, 0, 0, 0 ] []
+dmsg 3
+qvfz [ 'gnjf', '*', 'dmsg' ] [ 267, 0, 0, 0, 0, 0, 0 ] []
+slsz 3
+dbzg [ 'qvfz', '/', 'slsz' ] [ 89, 0, 0, 0, 0, 0, 0 ] []
+nbgg 3
+zqms [ 'dbzg', '*', 'nbgg' ] [ 267, 0, 0, 0, 0, 0, 0, 0 ] []
+pscz [ 'plzm', '+', 'zqms' ] [ 511, 0, 0, 0, 0, 0, 0, 0 ] []
+lvdg 14
+ffbf 2
+vcvt [ 'lvdg', '/', 'ffbf' ] [ 7 ] []
+pgnf [ 'pscz', '/', 'vcvt' ] [ 73, 0, 0, 0, 0, 0, 0, 0 ] []
+pcbl 3
+tztz [ 'pgnf', '*', 'pcbl' ] [ 219, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+fbwl 4
+gmlw 4
+jggg [ 'fbwl', '*', 'gmlw' ] [ 16, 0 ] []
+znln 5
+hzsh 2
+dzlh [ 'znln', '*', 'hzsh' ] [ 10, 0 ] []
+djbt 9
+lcvw [ 'dzlh', '+', 'djbt' ] [ 19, 0 ] []
+tlsc [ 'jggg', '*', 'lcvw' ] [ 304, 0, 0, 0 ] []
+cfcm [ 'tztz', '+', 'tlsc' ] [ 523, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+zlqd [ 'wprj', '-', 'cfcm' ] [ 17897.450000000004,
+  66.15000000000002,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+pfhf [ 'fsjh', '+', 'zlqd' ] [ 18211.450000000004,
+  66.15000000000002,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+blrp [ 'snzs', '+', 'pfhf' ] [ 18307.450000000004,
+  66.15000000000002,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+zbvj 7
+ghvs [ 'blrp', '/', 'zbvj' ] [ 2615.350000000001,
+  9.450000000000003,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+mwmp 6
+rvss 4
+qvsm 2
+gtvv [ 'rvss', '*', 'qvsm' ] [ 8, 0 ] []
+fhvt 3
+lpcv [ 'gtvv', '*', 'fhvt' ] [ 24, 0, 0 ] []
+wcws 6
+dfbv 5
+bhml 5
+lrfp [ 'dfbv', '*', 'bhml' ] [ 25, 0 ] []
+bzgj 17
+nzmr 3
+tvpg [ 'bzgj', '*', 'nzmr' ] [ 51, 0 ] []
+rncr [ 'lrfp', '+', 'tvpg' ] [ 76, 0 ] []
+mjdt 3
+vjgs 3
+jsdm [ 'mjdt', '*', 'vjgs' ] [ 9, 0 ] []
+szjg [ 'rncr', '-', 'jsdm' ] [ 67, 0 ] []
+jcdn 2
+cgwq [ 'szjg', '*', 'jcdn' ] [ 134, 0, 0 ] []
+grgg 2
+trmg [ 'cgwq', '/', 'grgg' ] [ 67, 0, 0 ] []
+wdhf [ 'wcws', '+', 'trmg' ] [ 73, 0, 0 ] []
+zfdg [ 'lpcv', '+', 'wdhf' ] [ 97, 0, 0 ] []
+nznl [ 'mwmp', '*', 'zfdg' ] [ 582, 0, 0, 0 ] []
+mdsv [ 'ghvs', '-', 'nznl' ] [ 2033.3500000000008,
+  9.450000000000003,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+vnpd 3
+qrph 3
+zpfn 7
+tdgg [ 'qrph', '*', 'zpfn' ] [ 21, 0 ] []
+fvgz [ 'vnpd', '*', 'tdgg' ] [ 63, 0, 0 ] []
+spzl 9
+ctwm 3
+ggqb 3
+dmmf [ 'ctwm', '*', 'ggqb' ] [ 9, 0 ] []
+hbnt 3
+nhvp [ 'dmmf', '*', 'hbnt' ] [ 27, 0, 0 ] []
+mjhs [ 'spzl', '*', 'nhvp' ] [ 243, 0, 0, 0 ] []
+vbqp [ 'fvgz', '+', 'mjhs' ] [ 306, 0, 0, 0 ] []
+nmsq [ 'mdsv', '+', 'vbqp' ] [ 2339.350000000001,
+  9.450000000000003,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+qwpd 3
+hrlr 11
+whjw [ 'qwpd', '*', 'hrlr' ] [ 33, 0 ] []
+ghff [ 'nmsq', '+', 'whjw' ] [ 2372.350000000001,
+  9.450000000000003,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+thfc 2
+qhvm [ 'ghff', '/', 'thfc' ] [ 1186.1750000000004,
+  4.725000000000001,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+lqmg [ 'dswd', '+', 'qhvm' ] [ 1342.1750000000004,
+  4.725000000000001,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+zqdn 2
+rwjm [ 'lqmg', '*', 'zqdn' ] [ 2684.350000000001,
+  9.450000000000003,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+htgg [ 'dshn', '-', 'rwjm' ] [ 58451531942900.65,
+  -9.450000000000003,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+lqjt 2
+vhlb [ 'htgg', '*', 'lqjt' ] [ 116903063885801.3,
+  -18.900000000000006,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+hmpv 2
+lpzl 4
+hbbc 14
+tmhr 12
+czzh 1
+ggdl [ 'tmhr', '+', 'czzh' ] [ 13 ] []
+gtnf [ 'hbbc', '+', 'ggdl' ] [ 27 ] []
+tfmb [ 'lpzl', '+', 'gtnf' ] [ 31 ] []
+zlfp 6
+hwsb [ 'tfmb', '+', 'zlfp' ] [ 37 ] []
+vzpt [ 'hmpv', '*', 'hwsb' ] [ 74, 0 ] []
+qbfs 2
+mhnd [ 'vzpt', '/', 'qbfs' ] [ 37, 0 ] []
+lvwg 2
+mfbv [ 'mhnd', '*', 'lvwg' ] [ 74, 0, 0 ] []
+nqwl 4
+lznj 2
+llhz 1
+rcnp 2
+gvrb 5
+hhdn [ 'rcnp', '*', 'gvrb' ] [ 10, 0 ] []
+gdtl [ 'llhz', '+', 'hhdn' ] [ 11, 0 ] []
+hpcr 6
+pdzh 2
+tjmd [ 'hpcr', '*', 'pdzh' ] [ 12, 0 ] []
+cwtd [ 'gdtl', '+', 'tjmd' ] [ 23, 0 ] []
+rmtg [ 'lznj', '*', 'cwtd' ] [ 46, 0, 0 ] []
+svzl 2
+wgsg [ 'rmtg', '/', 'svzl' ] [ 23, 0, 0 ] []
+jdpl [ 'nqwl', '*', 'wgsg' ] [ 92, 0, 0, 0 ] []
+rnll 1
+mscr 5
+wfjr 5
+sjwh [ 'mscr', '+', 'wfjr' ] [ 10 ] []
+ccrd [ 'rnll', '+', 'sjwh' ] [ 11 ] []
+pnhn [ 'jdpl', '*', 'ccrd' ] [ 1012, 0, 0, 0, 0 ] []
+ppwp [ 'mfbv', '+', 'pnhn' ] [ 1086, 0, 0, 0, 0 ] []
+wblr 6
+zhrw [ 'ppwp', '/', 'wblr' ] [ 181, 0, 0, 0, 0 ] []
+fqph [ 'vhlb', '+', 'zhrw' ] [ 116903063885982.3,
+  -18.900000000000006,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+bflb 3
+sdgh [ 'fqph', '/', 'bflb' ] [ 38967687961994.1,
+  -6.300000000000002,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0 ] []
+sgbr 15
+dvsf 5
+zqhc 5
+rrpl 5
+fcmf [ 'zqhc', '*', 'rrpl' ] [ 25, 0 ] []
+gnth 5
+pqhr 4
+ddbq 3
+wbcg 3
+jcfm [ 'ddbq', '*', 'wbcg' ] [ 9, 0 ] []
+hcwf 4
+zfff [ 'jcfm', '+', 'hcwf' ] [ 13, 0 ] []
+jwqd 3
+jwqq 4
+rbms [ 'jwqd', '+', 'jwqq' ] [ 7 ] []
+ggrh 4
+wfnb [ 'rbms', '+', 'ggrh' ] [ 11 ] []
+qcnh [ 'zfff', '+', 'wfnb' ] [ 24, 0 ] []
+jvnb 4
+ldpc [ 'qcnh', '/', 'jvnb' ] [ 6, 0 ] []
+cztt [ 'pqhr', '*', 'ldpc' ] [ 24, 0, 0 ] []
+lbsr [ 'gnth', '+', 'cztt' ] [ 29, 0, 0 ] []
+tzzr [ 'fcmf', '+', 'lbsr' ] [ 54, 0, 0 ] []
+cdrf 2
+gthf [ 'tzzr', '/', 'cdrf' ] [ 27, 0, 0 ] []
+wjnr 5
+fsdb 5
+fspl 11
+wspl [ 'fsdb', '*', 'fspl' ] [ 55, 0 ] []
+rdzw 3
+jjbd 2
+szpp [ 'rdzw', '*', 'jjbd' ] [ 6, 0 ] []
+lrnz 4
+nvzs [ 'szpp', '+', 'lrnz' ] [ 10, 0 ] []
+jgcl 3
+djpp 4
+dgnl 1
+tbbm 6
+vzjr [ 'dgnl', '+', 'tbbm' ] [ 7 ] []
+djnt [ 'djpp', '+', 'vzjr' ] [ 11 ] []
+tlpp [ 'jgcl', '*', 'djnt' ] [ 33, 0 ] []
+zmvd 3
+lbww [ 'tlpp', '/', 'zmvd' ] [ 11, 0 ] []
+mhcz 2
+hplq [ 'lbww', '*', 'mhcz' ] [ 22, 0, 0 ] []
+grhz [ 'nvzs', '+', 'hplq' ] [ 32, 0, 0 ] []
+lfqv 3
+zvgq 5
+rgnm [ 'lfqv', '+', 'zvgq' ] [ 8 ] []
+ctrw [ 'grhz', '-', 'rgnm' ] [ 24, 0, 0 ] []
+qhnl [ 'wspl', '+', 'ctrw' ] [ 79, 0, 0 ] []
+msnb [ 'wjnr', '*', 'qhnl' ] [ 395, 0, 0, 0 ] []
+rlcn 2
+bbqj 5
+pssj 2
+bnhz [ 'bbqj', '*', 'pssj' ] [ 10, 0 ] []
+frwl 7
+nwpb 3
+cltn [ 'frwl', '*', 'nwpb' ] [ 21, 0 ] []
+fswb [ 'bnhz', '+', 'cltn' ] [ 31, 0 ] []
+nwcw [ 'rlcn', '*', 'fswb' ] [ 62, 0, 0 ] []
+zffm 17
+fwqs [ 'nwcw', '*', 'zffm' ] [ 1054, 0, 0, 0 ] []
+dspz 2
+gnjn 2
+dccm 17
+vpfl [ 'gnjn', '*', 'dccm' ] [ 34, 0 ] []
+ptnc 2
+nfgq [ 'vpfl', '/', 'ptnc' ] [ 17, 0 ] []
+jtlz 4
+gnws [ 'nfgq', '-', 'jtlz' ] [ 13, 0 ] []
+cldm 13
+tsnm [ 'gnws', '*', 'cldm' ] [ 169, 0, 0 ] []
+fqcn [ 'dspz', '*', 'tsnm' ] [ 338, 0, 0, 0 ] []
+mbwh 8
+pvmv 2
+jvzs 5
+jmbr [ 'pvmv', '*', 'jvzs' ] [ 10, 0 ] []
+gcvv 1
+dnvd [ 'jmbr', '+', 'gcvv' ] [ 11, 0 ] []
+mdnp 6
+mjvj [ 'dnvd', '*', 'mdnp' ] [ 66, 0, 0 ] []
+mcmj [ 'mbwh', '+', 'mjvj' ] [ 74, 0, 0 ] []
+cgsb [ 'fqcn', '+', 'mcmj' ] [ 412, 0, 0, 0 ] []
+jtpn [ 'fwqs', '+', 'cgsb' ] [ 1466, 0, 0, 0 ] []
+qvdc [ 'msnb', '+', 'jtpn' ] [ 1861, 0, 0, 0 ] []
+sgrh 2
+bdrb [ 'qvdc', '*', 'sgrh' ] [ 3722, 0, 0, 0, 0 ] []
+tvsq [ 'gthf', '*', 'bdrb' ] [ 100494, 0, 0, 0, 0, 0, 0, 0 ] []
+pcfh 3
+mndz 2
+qtpn 2
+tlmn 5
+ngjw 14
+fbdw 3
+fzpt [ 'ngjw', '+', 'fbdw' ] [ 17 ] []
+cqns [ 'tlmn', '*', 'fzpt' ] [ 85, 0 ] []
+cfzb 2
+smvt 2
+brwj 2
+rbff 5
+tqjd 2
+cvts 4
+fwsp [ 'tqjd', '*', 'cvts' ] [ 8, 0 ] []
+csnh [ 'rbff', '+', 'fwsp' ] [ 13, 0 ] []
+mpbl [ 'brwj', '*', 'csnh' ] [ 26, 0, 0 ] []
+qfhp 4
+mvzv 7
+jrwv 2
+nbfm [ 'mvzv', '+', 'jrwv' ] [ 9 ] []
+tgdl [ 'qfhp', '+', 'nbfm' ] [ 13 ] []
+jhsj [ 'mpbl', '+', 'tgdl' ] [ 39, 0, 0 ] []
+vlgl [ 'smvt', '+', 'jhsj' ] [ 41, 0, 0 ] []
+fsfl [ 'cfzb', '*', 'vlgl' ] [ 82, 0, 0, 0 ] []
+ngrv [ 'cqns', '+', 'fsfl' ] [ 167, 0, 0, 0 ] []
+mnlj [ 'qtpn', '*', 'ngrv' ] [ 334, 0, 0, 0, 0 ] []
+mhmd [ 'mndz', '*', 'mnlj' ] [ 668, 0, 0, 0, 0, 0 ] []
+fmpg 4
+qlnr [ 'mhmd', '/', 'fmpg' ] [ 167, 0, 0, 0, 0, 0 ] []
+vlnf [ 'pcfh', '*', 'qlnr' ] [ 501, 0, 0, 0, 0, 0, 0 ] []
+hlng 2
+rnds [ 'vlnf', '*', 'hlng' ] [ 1002, 0, 0, 0, 0, 0, 0, 0 ] []
+svbp 2
+vvwd 3
+nhwg 3
+zfpq 3
+jzgs 3
+jgfv [ 'zfpq', '*', 'jzgs' ] [ 9, 0 ] []
+gdpz [ 'nhwg', '*', 'jgfv' ] [ 27, 0, 0 ] []
+jtgg 4
+qfzq [ 'gdpz', '+', 'jtgg' ] [ 31, 0, 0 ] []
+cmzj [ 'vvwd', '*', 'qfzq' ] [ 93, 0, 0, 0 ] []
+rjvr [ 'svbp', '*', 'cmzj' ] [ 186, 0, 0, 0, 0 ] []
+hndb 5
+mjcr 4
+tmrv [ 'hndb', '*', 'mjcr' ] [ 20, 0 ] []
+ccrv 2
+mvjz [ 'tmrv', '*', 'ccrv' ] [ 40, 0, 0 ] []
+wrjn 2
+pbgd 2
+zpjb 6
+zqtj [ 'pbgd', '*', 'zpjb' ] [ 12, 0 ] []
+jvlg [ 'wrjn', '*', 'zqtj' ] [ 24, 0, 0 ] []
+jpdl [ 'mvjz', '+', 'jvlg' ] [ 64, 0, 0 ] []
+whrc 16
+pgbj 2
+qvdg [ 'whrc', '*', 'pgbj' ] [ 32, 0 ] []
+gntn 1
+ptgc 2
+qsht 3
+mwlj [ 'ptgc', '*', 'qsht' ] [ 6, 0 ] []
+pqjl [ 'gntn', '+', 'mwlj' ] [ 7, 0 ] []
+dzmq 8
+rljv [ 'pqjl', '*', 'dzmq' ] [ 56, 0, 0 ] []
+lgdt 16
+scsj [ 'rljv', '-', 'lgdt' ] [ 40, 0, 0 ] []
+dtcw 7
+jgbv 2
+bcfw 7
+bgqd [ 'jgbv', '*', 'bcfw' ] [ 14, 0 ] []
+clrn 2
+qvqd [ 'bgqd', '/', 'clrn' ] [ 7, 0 ] []
+vcfv [ 'dtcw', '*', 'qvqd' ] [ 49, 0, 0 ] []
+mwcc [ 'scsj', '+', 'vcfv' ] [ 89, 0, 0 ] []
+mhvp [ 'qvdg', '+', 'mwcc' ] [ 121, 0, 0 ] []
+ztrc 2
+rjzp [ 'mhvp', '*', 'ztrc' ] [ 242, 0, 0, 0 ] []
+htvd 1
+qlzp [ 'rjzp', '-', 'htvd' ] [ 241, 0, 0, 0 ] []
+gbzj [ 'jpdl', '+', 'qlzp' ] [ 305, 0, 0, 0 ] []
+ftzq 5
+hnqs [ 'gbzj', '/', 'ftzq' ] [ 61, 0, 0, 0 ] []
+vdnt [ 'rjvr', '-', 'hnqs' ] [ 125, 0, 0, 0, 0 ] []
+dtzm [ 'rnds', '-', 'vdnt' ] [ 877, 0, 0, 0, 0, 0, 0, 0 ] []
+bnzf 2
+nttr 13
+nrwr 2
+cdvd [ 'nttr', '*', 'nrwr' ] [ 26, 0 ] []
+fhwg [ 'bnzf', '*', 'cdvd' ] [ 52, 0, 0 ] []
+sfpj 3
+glgs 4
+qphv 5
+wpfr [ 'glgs', '+', 'qphv' ] [ 9 ] []
+gfwr [ 'sfpj', '*', 'wpfr' ] [ 27, 0 ] []
+bvzv [ 'fhwg', '+', 'gfwr' ] [ 79, 0, 0 ] []
+jshj [ 'dtzm', '*', 'bvzv' ] [ 69283, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+qjdh [ 'tvsq', '+', 'jshj' ] [ 169777, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+gwfv 2
+wcbv [ 'qjdh', '*', 'gwfv' ] [ 339554, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+vbcg 5
+sqmh 5
+gphs 2
+ntjw 19
+gjwc [ 'gphs', '*', 'ntjw' ] [ 38, 0 ] []
+cdlh 3
+qvtm 5
+qlcd 5
+tsfc [ 'qvtm', '*', 'qlcd' ] [ 25, 0 ] []
+dlgm [ 'cdlh', '*', 'tsfc' ] [ 75, 0, 0 ] []
+bhjg [ 'gjwc', '*', 'dlgm' ] [ 2850, 0, 0, 0, 0 ] []
+wqcj 7
+lmph 2
+ztdw 5
+tftp [ 'lmph', '*', 'ztdw' ] [ 10, 0 ] []
+rjrr 2
+bhfb 5
+hptn 2
+jcrc 3
+jghr 2
+lmcq 3
+jjtw 4
+bmjw [ 'lmcq', '+', 'jjtw' ] [ 7 ] []
+jdnl [ 'jghr', '*', 'bmjw' ] [ 14, 0 ] []
+qbvj [ 'jcrc', '*', 'jdnl' ] [ 42, 0, 0 ] []
+fwvd [ 'hptn', '+', 'qbvj' ] [ 44, 0, 0 ] []
+bvmt [ 'bhfb', '+', 'fwvd' ] [ 49, 0, 0 ] []
+gdhz [ 'rjrr', '*', 'bvmt' ] [ 98, 0, 0, 0 ] []
+dbcc 9
+sbdn 13
+znzr [ 'dbcc', '*', 'sbdn' ] [ 117, 0 ] []
+hbzl 3
+jdzv 4
+bvcb 3
+nmqp [ 'jdzv', '+', 'bvcb' ] [ 7 ] []
+nlmv [ 'hbzl', '*', 'nmqp' ] [ 21, 0 ] []
+dpvr [ 'znzr', '+', 'nlmv' ] [ 138, 0 ] []
+lrwb [ 'gdhz', '+', 'dpvr' ] [ 236, 0, 0, 0 ] []
+brgf 4
+gmqn [ 'lrwb', '/', 'brgf' ] [ 59, 0, 0, 0 ] []
+nmfl [ 'tftp', '*', 'gmqn' ] [ 590, 0, 0, 0, 0, 0 ] []
+gddf 5
+ztwl 2
+ljgv [ 'gddf', '+', 'ztwl' ] [ 7 ] []
+thvp 3
+zsht 4
+tntm [ 'thvp', '*', 'zsht' ] [ 12, 0 ] []
+wvjp [ 'ljgv', '+', 'tntm' ] [ 19, 0 ] []
+bmnj 1
+wvgv [ 'wvjp', '-', 'bmnj' ] [ 18, 0 ] []
+qmpf 3
+jcwf 3
+vmsz 4
+hgjn [ 'jcwf', '*', 'vmsz' ] [ 12, 0 ] []
+jmnq 17
+ddjg [ 'hgjn', '+', 'jmnq' ] [ 29, 0 ] []
+blgc 18
+qcqz [ 'ddjg', '+', 'blgc' ] [ 47, 0 ] []
+tchv [ 'qmpf', '+', 'qcqz' ] [ 50, 0 ] []
+pvdj 13
+wgzh [ 'tchv', '-', 'pvdj' ] [ 37, 0 ] []
+jrnr 18
+lvwq [ 'wgzh', '+', 'jrnr' ] [ 55, 0 ] []
+frrg 12
+jdrp [ 'lvwq', '-', 'frrg' ] [ 43, 0 ] []
+fjjt 3
+wdgv 4
+gqmg [ 'fjjt', '+', 'wdgv' ] [ 7 ] []
+vvdw [ 'jdrp', '-', 'gqmg' ] [ 36, 0 ] []
+tpbc [ 'wvgv', '+', 'vvdw' ] [ 54, 0 ] []
+jgdf 2
+gslq [ 'tpbc', '/', 'jgdf' ] [ 27, 0 ] []
+rjdb 17
+rblm 7
+msqb 5
+vrfj [ 'rblm', '*', 'msqb' ] [ 35, 0 ] []
+shsn 2
+qlwv 6
+lvcc [ 'shsn', '*', 'qlwv' ] [ 12, 0 ] []
+hbvw 3
+cbrb [ 'lvcc', '-', 'hbvw' ] [ 9, 0 ] []
+fqgp [ 'vrfj', '-', 'cbrb' ] [ 26, 0 ] []
+vzsr [ 'rjdb', '+', 'fqgp' ] [ 43, 0 ] []
+gfgb 3
+dtqq 2
+dznt [ 'gfgb', '*', 'dtqq' ] [ 6, 0 ] []
+rlgd [ 'vzsr', '+', 'dznt' ] [ 49, 0 ] []
+nmwt [ 'gslq', '+', 'rlgd' ] [ 76, 0 ] []
+sljt 4
+fsbc 3
+btms [ 'sljt', '*', 'fsbc' ] [ 12, 0 ] []
+thrp [ 'nmwt', '+', 'btms' ] [ 88, 0 ] []
+ttdq 3
+hgzw 3
+fwfq [ 'ttdq', '*', 'hgzw' ] [ 9, 0 ] []
+bzll [ 'thrp', '+', 'fwfq' ] [ 97, 0 ] []
+dgbv 14
+rwqz 2
+fdjs [ 'dgbv', '/', 'rwqz' ] [ 7 ] []
+tlvs 2
+lpvw [ 'fdjs', '*', 'tlvs' ] [ 14, 0 ] []
+mcpq [ 'bzll', '+', 'lpvw' ] [ 111, 0 ] []
+fhwn [ 'nmfl', '-', 'mcpq' ] [ 479, 0, 0, 0, 0, 0 ] []
+msdj [ 'wqcj', '+', 'fhwn' ] [ 486, 0, 0, 0, 0, 0 ] []
+sbhg 3
+rsdn 3
+ssdh [ 'sbhg', '*', 'rsdn' ] [ 9, 0 ] []
+gnjb 4
+ffnt [ 'ssdh', '*', 'gnjb' ] [ 36, 0, 0 ] []
+zspj 7
+fnpd 5
+zcmc [ 'zspj', '*', 'fnpd' ] [ 35, 0 ] []
+dlbg [ 'ffnt', '+', 'zcmc' ] [ 71, 0, 0 ] []
+mcmq 2
+rcrw [ 'dlbg', '*', 'mcmq' ] [ 142, 0, 0, 0 ] []
+mvlw 2
+ccnm [ 'rcrw', '/', 'mvlw' ] [ 71, 0, 0, 0 ] []
+hdlj 3
+csrh 4
+sbcm [ 'hdlj', '+', 'csrh' ] [ 7 ] []
+jnjg [ 'ccnm', '*', 'sbcm' ] [ 497, 0, 0, 0, 0 ] []
+rfwr 2
+lzft [ 'jnjg', '+', 'rfwr' ] [ 499, 0, 0, 0, 0 ] []
+lwsb [ 'msdj', '+', 'lzft' ] [ 985, 0, 0, 0, 0, 0 ] []
+qsbc 8
+zggf 2
+qhfh 2
+shcl 5
+wfwb [ 'qhfh', '+', 'shcl' ] [ 7 ] []
+cnfj [ 'zggf', '*', 'wfwb' ] [ 14, 0 ] []
+zlbw 7
+mrmq 7
+bjwj [ 'zlbw', '*', 'mrmq' ] [ 49, 0 ] []
+dhpw 7
+flvr [ 'bjwj', '+', 'dhpw' ] [ 56, 0 ] []
+hstn 9
+cpdc 3
+pwll [ 'hstn', '*', 'cpdc' ] [ 27, 0 ] []
+dclp [ 'flvr', '+', 'pwll' ] [ 83, 0 ] []
+tcnp [ 'cnfj', '+', 'dclp' ] [ 97, 0 ] []
+snlh 2
+tsln [ 'tcnp', '*', 'snlh' ] [ 194, 0, 0 ] []
+lqqh 3
+hwzb 2
+vpzn [ 'lqqh', '*', 'hwzb' ] [ 6, 0 ] []
+jqcf 15
+jwsg [ 'vpzn', '*', 'jqcf' ] [ 90, 0, 0 ] []
+czhv 2
+dscr [ 'jwsg', '/', 'czhv' ] [ 45, 0, 0 ] []
+zfdq [ 'tsln', '-', 'dscr' ] [ 149, 0, 0 ] []
+bhjf 5
+vpjw 6
+fnvw [ 'bhjf', '*', 'vpjw' ] [ 30, 0 ] []
+mmvm [ 'zfdq', '+', 'fnvw' ] [ 179, 0, 0 ] []
+gfbc 3
+vpqb 5
+dgnv [ 'gfbc', '*', 'vpqb' ] [ 15, 0 ] []
+tfhg 2
+rdpg 19
+ftzp [ 'tfhg', '*', 'rdpg' ] [ 38, 0 ] []
+llzq [ 'dgnv', '*', 'ftzp' ] [ 570, 0, 0, 0 ] []
+zbzp [ 'mmvm', '+', 'llzq' ] [ 749, 0, 0, 0 ] []
+rbbw 7
+ctpn [ 'zbzp', '/', 'rbbw' ] [ 107, 0, 0, 0 ] []
+dltn [ 'qsbc', '*', 'ctpn' ] [ 856, 0, 0, 0, 0 ] []
+mdvc [ 'lwsb', '+', 'dltn' ] [ 1841, 0, 0, 0, 0, 0 ] []
+jwgn [ 'bhjg', '+', 'mdvc' ] [ 4691, 0, 0, 0, 0, 0 ] []
+glsg [ 'sqmh', '*', 'jwgn' ] [ 23455, 0, 0, 0, 0, 0, 0 ] []
+lhml 7
+bsgr 16
+pqpp 6
+slbc 5
+dlgc 5
+tltp [ 'slbc', '*', 'dlgc' ] [ 25, 0 ] []
+tnrm [ 'pqpp', '*', 'tltp' ] [ 150, 0, 0 ] []
+mgwh 2
+jclp 19
+plwj 2
+tzhz [ 'jclp', '*', 'plwj' ] [ 38, 0 ] []
+nllt 2
+zgqf [ 'tzhz', '/', 'nllt' ] [ 19, 0 ] []
+ccww 2
+tgcb 7
+dbrl [ 'ccww', '*', 'tgcb' ] [ 14, 0 ] []
+zvvt 2
+jfbf [ 'dbrl', '*', 'zvvt' ] [ 28, 0, 0 ] []
+pvzn [ 'zgqf', '+', 'jfbf' ] [ 47, 0, 0 ] []
+wshr [ 'mgwh', '*', 'pvzn' ] [ 94, 0, 0, 0 ] []
+wmwn [ 'tnrm', '+', 'wshr' ] [ 244, 0, 0, 0 ] []
+mfbd [ 'bsgr', '+', 'wmwn' ] [ 260, 0, 0, 0 ] []
+smqp 5
+wpnc 2
+vpvj [ 'smqp', '*', 'wpnc' ] [ 10, 0 ] []
+mnpc 1
+llqg [ 'vpvj', '+', 'mnpc' ] [ 11, 0 ] []
+cdff 6
+fpbm [ 'llqg', '+', 'cdff' ] [ 17, 0 ] []
+gzqt 3
+pprb [ 'fpbm', '*', 'gzqt' ] [ 51, 0, 0 ] []
+pdnl 2
+nqgg 16
+dtwl 1
+vhhj 2
+nqfn 7
+wgrz [ 'vhhj', '*', 'nqfn' ] [ 14, 0 ] []
+ndtl 4
+vngg 3
+smww [ 'ndtl', '+', 'vngg' ] [ 7 ] []
+cltv [ 'wgrz', '+', 'smww' ] [ 21, 0 ] []
+tzmn 9
+fzgp [ 'cltv', '+', 'tzmn' ] [ 30, 0 ] []
+gzpm [ 'dtwl', '+', 'fzgp' ] [ 31, 0 ] []
+pvvs [ 'nqgg', '+', 'gzpm' ] [ 47, 0 ] []
+ljls 2
+zvpw [ 'pvvs', '*', 'ljls' ] [ 94, 0, 0 ] []
+vpfs [ 'pdnl', '*', 'zvpw' ] [ 188, 0, 0, 0 ] []
+mnpd [ 'pprb', '+', 'vpfs' ] [ 239, 0, 0, 0 ] []
+sbld [ 'mfbd', '+', 'mnpd' ] [ 499, 0, 0, 0 ] []
+sntj [ 'lhml', '*', 'sbld' ] [ 3493, 0, 0, 0, 0 ] []
+qfsr [ 'glsg', '+', 'sntj' ] [ 26948, 0, 0, 0, 0, 0, 0 ] []
+qccz [ 'vbcg', '*', 'qfsr' ] [ 134740, 0, 0, 0, 0, 0, 0, 0 ] []
+twmj 2
+rjwv 5
+nsrf [ 'twmj', '+', 'rjwv' ] [ 7 ] []
+zntr 4
+jwpg [ 'nsrf', '+', 'zntr' ] [ 11 ] []
+pzwh 16
+pjhz 9
+ndmp [ 'pzwh', '*', 'pjhz' ] [ 144, 0 ] []
+cppl 5
+spcg 3
+zmzf [ 'cppl', '*', 'spcg' ] [ 15, 0 ] []
+fdjq 2
+njsf [ 'zmzf', '+', 'fdjq' ] [ 17, 0 ] []
+scms 3
+zgsc [ 'njsf', '*', 'scms' ] [ 51, 0, 0 ] []
+cgqf 3
+crqt [ 'zgsc', '*', 'cgqf' ] [ 153, 0, 0, 0 ] []
+nqzm 2
+jfwm 5
+wflg [ 'nqzm', '*', 'jfwm' ] [ 10, 0 ] []
+clng 2
+nqdb 3
+jjhf 5
+pbsw 2
+slfl [ 'jjhf', '+', 'pbsw' ] [ 7 ] []
+hbpf 4
+gnnd [ 'slfl', '+', 'hbpf' ] [ 11 ] []
+qjrd [ 'nqdb', '*', 'gnnd' ] [ 33, 0 ] []
+ssvh [ 'clng', '*', 'qjrd' ] [ 66, 0, 0 ] []
+rwbl [ 'wflg', '+', 'ssvh' ] [ 76, 0, 0 ] []
+ndtf [ 'crqt', '+', 'rwbl' ] [ 229, 0, 0, 0 ] []
+trng [ 'ndmp', '+', 'ndtf' ] [ 373, 0, 0, 0 ] []
+pchs [ 'jwpg', '*', 'trng' ] [ 4103, 0, 0, 0, 0 ] []
+tdbd 7
+gvlf [ 'pchs', '*', 'tdbd' ] [ 28721, 0, 0, 0, 0, 0 ] []
+mvsw [ 'qccz', '-', 'gvlf' ] [ 106019, 0, 0, 0, 0, 0, 0, 0 ] []
+fzdt [ 'wcbv', '+', 'mvsw' ] [ 445573, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+whdv [ 'dvsf', '*', 'fzdt' ] [ 2227865, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+jnsl 12
+cqmd 1
+gdwz [ 'jnsl', '+', 'cqmd' ] [ 13 ] []
+nrbs 3
+gmng 6
+scwv [ 'nrbs', '*', 'gmng' ] [ 18, 0 ] []
+psnm [ 'gdwz', '+', 'scwv' ] [ 31, 0 ] []
+pfwm 2
+ghvj [ 'psnm', '*', 'pfwm' ] [ 62, 0, 0 ] []
+gvrz [ 'whdv', '*', 'ghvj' ] [ 138127630, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+bbrr 2
+nccn 2
+wczr 3
+hzgg 11
+twft [ 'wczr', '*', 'hzgg' ] [ 33, 0 ] []
+stzc 2
+zhqz 7
+jnqc 3
+djpw 3
+jpjd [ 'jnqc', '+', 'djpw' ] [ 6 ] []
+jfzh [ 'zhqz', '+', 'jpjd' ] [ 13 ] []
+vlsj 2
+fpnb [ 'jfzh', '*', 'vlsj' ] [ 26, 0 ] []
+zrvg 3
+dljn [ 'fpnb', '-', 'zrvg' ] [ 23, 0 ] []
+rmns [ 'stzc', '*', 'dljn' ] [ 46, 0, 0 ] []
+tgmt [ 'twft', '+', 'rmns' ] [ 79, 0, 0 ] []
+gqdv 2
+cfgm [ 'tgmt', '*', 'gqdv' ] [ 158, 0, 0, 0 ] []
+dzfb 2
+gpzz [ 'cfgm', '/', 'dzfb' ] [ 79, 0, 0, 0 ] []
+qwjm [ 'nccn', '*', 'gpzz' ] [ 158, 0, 0, 0, 0 ] []
+zzmf 3
+cdwp 17
+jjdn [ 'zzmf', '*', 'cdwp' ] [ 51, 0 ] []
+wfql 5
+smzj 9
+hsgd [ 'wfql', '*', 'smzj' ] [ 45, 0 ] []
+rmrv 8
+vvfr [ 'hsgd', '+', 'rmrv' ] [ 53, 0 ] []
+pptg 2
+hqfr [ 'vvfr', '*', 'pptg' ] [ 106, 0, 0 ] []
+mfcf [ 'jjdn', '*', 'hqfr' ] [ 5406, 0, 0, 0, 0 ] []
+qwgb 2
+wqpz [ 'mfcf', '/', 'qwgb' ] [ 2703, 0, 0, 0, 0 ] []
+vzsz [ 'qwjm', '+', 'wqpz' ] [ 2861, 0, 0, 0, 0 ] []
+mvsn [ 'bbrr', '*', 'vzsz' ] [ 5722, 0, 0, 0, 0, 0 ] []
+hnwr 6
+ngqd 7
+dtrd [ 'hnwr', '+', 'ngqd' ] [ 13 ] []
+zcnp 2
+rqwr 7
+hjnv 2
+ppsw 3
+tnrc 20
+lgmp [ 'ppsw', '+', 'tnrc' ] [ 23 ] []
+gltv [ 'hjnv', '*', 'lgmp' ] [ 46, 0 ] []
+lswz [ 'rqwr', '+', 'gltv' ] [ 53, 0 ] []
+grns 5
+wmsr [ 'lswz', '*', 'grns' ] [ 265, 0, 0 ] []
+bcbw 10
+qpzv 4
+gwhr [ 'bcbw', '*', 'qpzv' ] [ 40, 0 ] []
+rcqc 3
+nbjs 15
+nnhs [ 'rcqc', '*', 'nbjs' ] [ 45, 0 ] []
+bpqp 4
+hvhb 6
+gsls 12
+drlc [ 'hvhb', '+', 'gsls' ] [ 18 ] []
+hhcr [ 'bpqp', '+', 'drlc' ] [ 22 ] []
+rgtw [ 'nnhs', '+', 'hhcr' ] [ 67, 0 ] []
+hvrw [ 'gwhr', '+', 'rgtw' ] [ 107, 0 ] []
+mbfm 14
+hthf 2
+qhpl [ 'mbfm', '/', 'hthf' ] [ 7 ] []
+nzpn 1
+spvh [ 'qhpl', '-', 'nzpn' ] [ 6 ] []
+fhmr 1
+brhv 2
+wcqd 5
+qzdz [ 'brhv', '*', 'wcqd' ] [ 10, 0 ] []
+gdmc [ 'fhmr', '+', 'qzdz' ] [ 11, 0 ] []
+lgtq [ 'spvh', '+', 'gdmc' ] [ 17, 0 ] []
+nntv 19
+pfvn [ 'lgtq', '*', 'nntv' ] [ 323, 0, 0 ] []
+dcnb [ 'hvrw', '+', 'pfvn' ] [ 430, 0, 0 ] []
+sqvh [ 'wmsr', '+', 'dcnb' ] [ 695, 0, 0 ] []
+mbfd 5
+vttw [ 'sqvh', '/', 'mbfd' ] [ 139, 0, 0 ] []
+tbhs [ 'zcnp', '*', 'vttw' ] [ 278, 0, 0, 0 ] []
+pplz 2
+htft [ 'tbhs', '/', 'pplz' ] [ 139, 0, 0, 0 ] []
+qfbq [ 'dtrd', '*', 'htft' ] [ 1807, 0, 0, 0, 0 ] []
+vqvt [ 'mvsn', '-', 'qfbq' ] [ 3915, 0, 0, 0, 0, 0 ] []
+fbww 4
+ncsd 12
+dbcr [ 'fbww', '*', 'ncsd' ] [ 48, 0 ] []
+bshw 2
+bnnv 8
+zlgc [ 'bshw', '*', 'bnnv' ] [ 16, 0 ] []
+lhht 3
+tfwq 5
+cmcp [ 'lhht', '*', 'tfwq' ] [ 15, 0 ] []
+qfwz [ 'zlgc', '+', 'cmcp' ] [ 31, 0 ] []
+zcqc 2
+lpfg [ 'qfwz', '*', 'zcqc' ] [ 62, 0, 0 ] []
+rldp 2
+jjcg [ 'lpfg', '/', 'rldp' ] [ 31, 0, 0 ] []
+bvlf 2
+zhgh [ 'jjcg', '*', 'bvlf' ] [ 62, 0, 0, 0 ] []
+fqmw [ 'dbcr', '*', 'zhgh' ] [ 2976, 0, 0, 0, 0, 0 ] []
+njvl [ 'vqvt', '+', 'fqmw' ] [ 6891, 0, 0, 0, 0, 0 ] []
+zmnd 5
+mwmv 2
+wlwt [ 'zmnd', '+', 'mwmv' ] [ 7 ] []
+ssmm 10
+gtnd 3
+pdjh [ 'ssmm', '*', 'gtnd' ] [ 30, 0 ] []
+fwtm 14
+qvrw 2
+bpqs [ 'fwtm', '/', 'qvrw' ] [ 7 ] []
+scsp [ 'pdjh', '+', 'bpqs' ] [ 37, 0 ] []
+tdpv 4
+vhcr [ 'scsp', '*', 'tdpv' ] [ 148, 0, 0 ] []
+tcrd 11
+pdmw 2
+wbdh [ 'tcrd', '*', 'pdmw' ] [ 22, 0 ] []
+dzvl 8
+zbct 3
+qcdj [ 'dzvl', '+', 'zbct' ] [ 11 ] []
+bgtg 5
+qswl [ 'qcdj', '*', 'bgtg' ] [ 55, 0 ] []
+vmbc [ 'wbdh', '*', 'qswl' ] [ 1210, 0, 0, 0 ] []
+fnqz 3
+qnlt 1
+wcll 5
+bntp 1
+bshc [ 'wcll', '+', 'bntp' ] [ 6 ] []
+qtrh [ 'qnlt', '+', 'bshc' ] [ 7 ] []
+msvs 3
+vvwl [ 'qtrh', '*', 'msvs' ] [ 21, 0 ] []
+lwtd 9
+tbgq 7
+dlmv [ 'lwtd', '+', 'tbgq' ] [ 16 ] []
+dnhm [ 'vvwl', '+', 'dlmv' ] [ 37, 0 ] []
+ftrb 2
+mrgl [ 'dnhm', '*', 'ftrb' ] [ 74, 0, 0 ] []
+rnsv 2
+vscm [ 'mrgl', '/', 'rnsv' ] [ 37, 0, 0 ] []
+ltrd [ 'fnqz', '*', 'vscm' ] [ 111, 0, 0, 0 ] []
+bcrp 7
+zzlh 16
+vplc [ 'bcrp', '*', 'zzlh' ] [ 112, 0 ] []
+cshg [ 'ltrd', '+', 'vplc' ] [ 223, 0, 0, 0 ] []
+gjrf 2
+jfcc 12
+nwvs [ 'gjrf', '*', 'jfcc' ] [ 24, 0 ] []
+nsjr 2
+ppvs [ 'nwvs', '+', 'nsjr' ] [ 26, 0 ] []
+dcdp [ 'cshg', '-', 'ppvs' ] [ 197, 0, 0, 0 ] []
+twzz 3
+pcpj 7
+pggn [ 'twzz', '+', 'pcpj' ] [ 10 ] []
+vvrs 2
+pggv 2
+rbdb 3
+mmzc 3
+tdpm [ 'rbdb', '*', 'mmzc' ] [ 9, 0 ] []
+tpvz 2
+znvt 5
+hwvw [ 'tpvz', '*', 'znvt' ] [ 10, 0 ] []
+vwzc [ 'tdpm', '+', 'hwvw' ] [ 19, 0 ] []
+jjwp 5
+sjcs 5
+trwm 3
+pglv [ 'sjcs', '*', 'trwm' ] [ 15, 0 ] []
+rdvj [ 'jjwp', '*', 'pglv' ] [ 75, 0, 0 ] []
+vncc [ 'vwzc', '+', 'rdvj' ] [ 94, 0, 0 ] []
+mqch 2
+jjlp [ 'vncc', '/', 'mqch' ] [ 47, 0, 0 ] []
+zqnr [ 'pggv', '*', 'jjlp' ] [ 94, 0, 0, 0 ] []
+httn 2
+rrml [ 'zqnr', '/', 'httn' ] [ 47, 0, 0, 0 ] []
+wrvd [ 'vvrs', '*', 'rrml' ] [ 94, 0, 0, 0, 0 ] []
+bsfj 7
+wctl 5
+vsrt 5
+mzgb [ 'wctl', '*', 'vsrt' ] [ 25, 0 ] []
+zrnd 14
+zcfj 4
+vwrm [ 'zrnd', '-', 'zcfj' ] [ 10 ] []
+rdrd [ 'mzgb', '+', 'vwrm' ] [ 35, 0 ] []
+lbqg 5
+zpmb [ 'rdrd', '-', 'lbqg' ] [ 30, 0 ] []
+jpzr [ 'bsfj', '+', 'zpmb' ] [ 37, 0 ] []
+smcj 3
+gcpc 3
+svjw [ 'smcj', '*', 'gcpc' ] [ 9, 0 ] []
+ldtb 2
+splf [ 'svjw', '+', 'ldtb' ] [ 11, 0 ] []
+mbnb 2
+fhcd [ 'splf', '*', 'mbnb' ] [ 22, 0, 0 ] []
+tqzd [ 'jpzr', '+', 'fhcd' ] [ 59, 0, 0 ] []
+fwzz 14
+rmsb 5
+scfb [ 'fwzz', '*', 'rmsb' ] [ 70, 0 ] []
+qglr 3
+tjpl 2
+brbw 2
+nbdw 6
+nfjq [ 'brbw', '*', 'nbdw' ] [ 12, 0 ] []
+rzqp [ 'tjpl', '*', 'nfjq' ] [ 24, 0, 0 ] []
+hfdc 5
+hmbg [ 'rzqp', '+', 'hfdc' ] [ 29, 0, 0 ] []
+slcl [ 'qglr', '*', 'hmbg' ] [ 87, 0, 0, 0 ] []
+lblz [ 'scfb', '+', 'slcl' ] [ 157, 0, 0, 0 ] []
+wnfl 5
+tdnr [ 'lblz', '*', 'wnfl' ] [ 785, 0, 0, 0, 0 ] []
+nwmd [ 'tqzd', '+', 'tdnr' ] [ 844, 0, 0, 0, 0 ] []
+bdzl [ 'wrvd', '+', 'nwmd' ] [ 938, 0, 0, 0, 0 ] []
+vdph 2
+ptbh 2
+bpsp 6
+fqtz 11
+tnmb 4
+pqzc 7
+pjdm [ 'tnmb', '*', 'pqzc' ] [ 28, 0 ] []
+dpng [ 'fqtz', '+', 'pjdm' ] [ 39, 0 ] []
+hfzt 3
+dhhz 9
+hzsq [ 'hfzt', '*', 'dhhz' ] [ 27, 0 ] []
+zffc [ 'dpng', '+', 'hzsq' ] [ 66, 0 ] []
+lljd [ 'bpsp', '+', 'zffc' ] [ 72, 0 ] []
+mgtn 19
+dlwb [ 'lljd', '-', 'mgtn' ] [ 53, 0 ] []
+wqtz 2
+qbdq 4
+pqgc [ 'wqtz', '*', 'qbdq' ] [ 8, 0 ] []
+mhnj [ 'dlwb', '+', 'pqgc' ] [ 61, 0 ] []
+zwmt 6
+swwr [ 'mhnj', '+', 'zwmt' ] [ 67, 0 ] []
+mbpw [ 'ptbh', '*', 'swwr' ] [ 134, 0, 0 ] []
+llzg 5
+dbwg 5
+qdrn [ 'llzg', '*', 'dbwg' ] [ 25, 0 ] []
+jsnl [ 'mbpw', '-', 'qdrn' ] [ 109, 0, 0 ] []
+dgsf [ 'vdph', '*', 'jsnl' ] [ 218, 0, 0, 0 ] []
+hldg 2
+jgpr 15
+crlt 5
+vvwb 12
+cgvw [ 'crlt', '+', 'vvwb' ] [ 17 ] []
+cmjh [ 'jgpr', '+', 'cgvw' ] [ 32 ] []
+gdvj [ 'hldg', '*', 'cmjh' ] [ 64, 0 ] []
+rdlz [ 'dgsf', '+', 'gdvj' ] [ 282, 0, 0, 0 ] []
+cptn [ 'bdzl', '-', 'rdlz' ] [ 656, 0, 0, 0, 0 ] []
+wmbj 2
+bsjs [ 'cptn', '/', 'wmbj' ] [ 328, 0, 0, 0, 0 ] []
+cwpf 8
+vhvv [ 'bsjs', '/', 'cwpf' ] [ 41, 0, 0, 0, 0 ] []
+cddm 7
+tqvs [ 'vhvv', '*', 'cddm' ] [ 287, 0, 0, 0, 0, 0 ] []
+svwh 1
+jchd 6
+cqbr [ 'svwh', '+', 'jchd' ] [ 7 ] []
+wfsb [ 'tqvs', '/', 'cqbr' ] [ 41, 0, 0, 0, 0, 0 ] []
+mcvg [ 'pggn', '*', 'wfsb' ] [ 410, 0, 0, 0, 0, 0, 0 ] []
+dlgb [ 'dcdp', '+', 'mcvg' ] [ 607, 0, 0, 0, 0, 0, 0 ] []
+wlml 2
+tzjj [ 'dlgb', '*', 'wlml' ] [ 1214, 0, 0, 0, 0, 0, 0, 0 ] []
+jqdd 18
+qsdh 2
+hjmr 3
+bghj 5
+dsst 2
+fpsl [ 'bghj', '+', 'dsst' ] [ 7 ] []
+zjbj [ 'hjmr', '*', 'fpsl' ] [ 21, 0 ] []
+tmng 13
+gghb 5
+mnqf [ 'tmng', '*', 'gghb' ] [ 65, 0 ] []
+dmbm 5
+ndgt [ 'mnqf', '/', 'dmbm' ] [ 13, 0 ] []
+hsvs 17
+gdtt 4
+cldn 9
+zsvn [ 'gdtt', '+', 'cldn' ] [ 13 ] []
+rrfp [ 'hsvs', '+', 'zsvn' ] [ 30 ] []
+nrzc 6
+sdvs 6
+wbjl [ 'nrzc', '*', 'sdvs' ] [ 36, 0 ] []
+fqml [ 'rrfp', '+', 'wbjl' ] [ 66, 0 ] []
+jwpr [ 'ndgt', '+', 'fqml' ] [ 79, 0 ] []
+bcnz 2
+ldsw 9
+tjgp [ 'bcnz', '*', 'ldsw' ] [ 18, 0 ] []
+tfqq [ 'jwpr', '-', 'tjgp' ] [ 61, 0 ] []
+cssl 7
+nphs [ 'tfqq', '+', 'cssl' ] [ 68, 0 ] []
+gvgl [ 'zjbj', '+', 'nphs' ] [ 89, 0 ] []
+bscz [ 'qsdh', '*', 'gvgl' ] [ 178, 0, 0 ] []
+fccr 2
+lfvb [ 'bscz', '/', 'fccr' ] [ 89, 0, 0 ] []
+jtws 3
+wphd [ 'lfvb', '*', 'jtws' ] [ 267, 0, 0, 0 ] []
+bgvm [ 'jqdd', '+', 'wphd' ] [ 285, 0, 0, 0 ] []
+dnjg [ 'tzjj', '+', 'bgvm' ] [ 1499, 0, 0, 0, 0, 0, 0, 0 ] []
+nhgl [ 'vmbc', '+', 'dnjg' ] [ 2709, 0, 0, 0, 0, 0, 0, 0 ] []
+nqtg [ 'vhcr', '+', 'nhgl' ] [ 2857, 0, 0, 0, 0, 0, 0, 0 ] []
+vznf [ 'wlwt', '*', 'nqtg' ] [ 19999, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+nnpt [ 'njvl', '*', 'vznf' ] [ 137813109, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+gchg [ 'gvrz', '+', 'nnpt' ] [ 275940739, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+rfjh 3
+stjj [ 'gchg', '*', 'rfjh' ] [ 827822217, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+fddj 2
+rhbl 5
+ndnb 4
+fqfv 9
+dmcd [ 'ndnb', '+', 'fqfv' ] [ 13 ] []
+dtrj 1
+gqmc 2
+pchl 3
+mtrm [ 'gqmc', '*', 'pchl' ] [ 6, 0 ] []
+cjsc [ 'dtrj', '+', 'mtrm' ] [ 7, 0 ] []
+czrb 4
+cpwp 6
+wrht [ 'czrb', '*', 'cpwp' ] [ 24, 0 ] []
+sqsr [ 'cjsc', '+', 'wrht' ] [ 31, 0 ] []
+bcrs [ 'dmcd', '*', 'sqsr' ] [ 403, 0, 0 ] []
+vznq [ 'rhbl', '*', 'bcrs' ] [ 2015, 0, 0, 0 ] []
+hhdw 18
+qgqb 7
+swlm 9
+mdds [ 'qgqb', '*', 'swlm' ] [ 63, 0 ] []
+qfnd [ 'hhdw', '*', 'mdds' ] [ 1134, 0, 0 ] []
+zpgm 5
+plzr 3
+fgbp [ 'zpgm', '*', 'plzr' ] [ 15, 0 ] []
+llfp 10
+rzpg [ 'fgbp', '*', 'llfp' ] [ 150, 0, 0 ] []
+vqsw 2
+jrwj 5
+hvqd [ 'vqsw', '+', 'jrwj' ] [ 7 ] []
+smmh 14
+zncv 3
+lrnw [ 'smmh', '-', 'zncv' ] [ 11 ] []
+dtqg [ 'hvqd', '*', 'lrnw' ] [ 77, 0 ] []
+dvvm 2
+hdfp 5
+dqnf 2
+qrbs [ 'hdfp', '*', 'dqnf' ] [ 10, 0 ] []
+qjcm [ 'dvvm', '*', 'qrbs' ] [ 20, 0, 0 ] []
+hgwz [ 'dtqg', '+', 'qjcm' ] [ 97, 0, 0 ] []
+cnsr [ 'rzpg', '+', 'hgwz' ] [ 247, 0, 0 ] []
+mfml [ 'qfnd', '-', 'cnsr' ] [ 887, 0, 0 ] []
+qvdl 2
+dsdz 14
+cwzm 2
+whlr 13
+pjvs [ 'cwzm', '*', 'whlr' ] [ 26, 0 ] []
+qlmf 2
+dtlj [ 'pjvs', '*', 'qlmf' ] [ 52, 0, 0 ] []
+rbnh [ 'dsdz', '*', 'dtlj' ] [ 728, 0, 0, 0 ] []
+lwfc 5
+cpnp 1
+jwzg 11
+zwnt 13
+vwsg [ 'jwzg', '+', 'zwnt' ] [ 24 ] []
+nzql 7
+fczb [ 'vwsg', '+', 'nzql' ] [ 31 ] []
+bhsg [ 'cpnp', '+', 'fczb' ] [ 32 ] []
+czqr [ 'lwfc', '+', 'bhsg' ] [ 37 ] []
+ndrd [ 'rbnh', '-', 'czqr' ] [ 691, 0, 0, 0 ] []
+rwzr 3
+fvmw 3
+flhw [ 'rwzr', '*', 'fvmw' ] [ 9, 0 ] []
+lwjc 7
+phts 3
+mdmr [ 'lwjc', '*', 'phts' ] [ 21, 0 ] []
+mqjr [ 'flhw', '*', 'mdmr' ] [ 189, 0, 0, 0 ] []
+vcpn 13
+ffjw 13
+mqwc [ 'vcpn', '*', 'ffjw' ] [ 169, 0 ] []
+vdff [ 'mqjr', '+', 'mqwc' ] [ 358, 0, 0, 0 ] []
+sfrc 2
+cwbr [ 'vdff', '/', 'sfrc' ] [ 179, 0, 0, 0 ] []
+sqfd 5
+hwcr 2
+sjhr [ 'sqfd', '+', 'hwcr' ] [ 7 ] []
+whdf [ 'cwbr', '-', 'sjhr' ] [ 172, 0, 0, 0 ] []
+ttll [ 'ndrd', '+', 'whdf' ] [ 863, 0, 0, 0 ] []
+hpcq 2
+brpd [ 'ttll', '*', 'hpcq' ] [ 1726, 0, 0, 0, 0 ] []
+llfn [ 'qvdl', '*', 'brpd' ] [ 3452, 0, 0, 0, 0, 0 ] []
+hhth 13
+ntvd 16
+tbql [ 'hhth', '+', 'ntvd' ] [ 29 ] []
+trvd 3
+phhf 2
+mjnw 12
+fnpm 1
+bsww [ 'mjnw', '-', 'fnpm' ] [ 11 ] []
+vzmm [ 'phhf', '+', 'bsww' ] [ 13 ] []
+lmts [ 'trvd', '*', 'vzmm' ] [ 39, 0 ] []
+qtwh 3
+dwpm [ 'lmts', '/', 'qtwh' ] [ 13, 0 ] []
+jmnz [ 'tbql', '*', 'dwpm' ] [ 377, 0, 0 ] []
+clhm [ 'llfn', '-', 'jmnz' ] [ 3075, 0, 0, 0, 0, 0 ] []
+bvrg [ 'mfml', '+', 'clhm' ] [ 3962, 0, 0, 0, 0, 0 ] []
+dpqf [ 'vznq', '+', 'bvrg' ] [ 5977, 0, 0, 0, 0, 0 ] []
+sbmj [ 'fddj', '*', 'dpqf' ] [ 11954, 0, 0, 0, 0, 0, 0 ] []
+rzfp 4
+trpn 2
+dndg 19
+trsd 3
+pmls 4
+bfbs 4
+nzsj [ 'pmls', '+', 'bfbs' ] [ 8 ] []
+lfjb [ 'trsd', '*', 'nzsj' ] [ 24, 0 ] []
+hcrt [ 'dndg', '+', 'lfjb' ] [ 43, 0 ] []
+mcrg [ 'trpn', '*', 'hcrt' ] [ 86, 0, 0 ] []
+bgpr 6
+sllh 3
+tfpv 3
+zjgz [ 'sllh', '*', 'tfpv' ] [ 9, 0 ] []
+pfdn 5
+wtdm [ 'zjgz', '*', 'pfdn' ] [ 45, 0, 0 ] []
+bfqn 4
+cnnb [ 'wtdm', '-', 'bfqn' ] [ 41, 0, 0 ] []
+bfvr [ 'bgpr', '*', 'cnnb' ] [ 246, 0, 0, 0 ] []
+csfp [ 'mcrg', '*', 'bfvr' ] [ 21156, 0, 0, 0, 0, 0, 0 ] []
+bhnz 8
+gdrr 8
+lnjv 2
+zjlc [ 'gdrr', '*', 'lnjv' ] [ 16, 0 ] []
+bplv 2
+gtrp [ 'zjlc', '*', 'bplv' ] [ 32, 0, 0 ] []
+fjlc 2
+brrp [ 'gtrp', '/', 'fjlc' ] [ 16, 0, 0 ] []
+dbdg [ 'bhnz', '*', 'brrp' ] [ 128, 0, 0, 0 ] []
+dwsc 6
+cphw 1
+hmjm [ 'dwsc', '+', 'cphw' ] [ 7 ] []
+wgtl 5
+rgvh [ 'hmjm', '*', 'wgtl' ] [ 35, 0 ] []
+tvfd [ 'dbdg', '+', 'rgvh' ] [ 163, 0, 0, 0 ] []
+hnhb 4
+brql 2
+dwgq [ 'hnhb', '*', 'brql' ] [ 8, 0 ] []
+ztjl 19
+tghz [ 'dwgq', '*', 'ztjl' ] [ 152, 0, 0 ] []
+cvft 8
+sjrz [ 'tghz', '/', 'cvft' ] [ 19, 0, 0 ] []
+nwlh [ 'tvfd', '*', 'sjrz' ] [ 3097, 0, 0, 0, 0, 0, 0 ] []
+nghf [ 'csfp', '-', 'nwlh' ] [ 18059, 0, 0, 0, 0, 0, 0 ] []
+wqzm [ 'rzfp', '*', 'nghf' ] [ 72236, 0, 0, 0, 0, 0, 0, 0 ] []
+fgfb [ 'sbmj', '*', 'wqzm' ] [ 863509144, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+sgsr [ 'stjj', '+', 'fgfb' ] [ 1691331361, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+bcsh 3
+qfzl [ 'sgsr', '*', 'bcsh' ] [ 5073994083, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+tnfs 1
+hgqm 1
+ccnb 3
+gfcb 5
+spbd [ 'ccnb', '*', 'gfcb' ] [ 15, 0 ] []
+qlvh [ 'hgqm', '+', 'spbd' ] [ 16, 0 ] []
+tsmd [ 'tnfs', '+', 'qlvh' ] [ 17, 0 ] []
+whdq 2
+mgqg [ 'tsmd', '*', 'whdq' ] [ 34, 0, 0 ] []
+htpc [ 'qfzl', '*', 'mgqg' ] [ 172515798822, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+pjwm 14
+njbz 17
+vhst [ 'pjwm', '*', 'njbz' ] [ 238, 0 ] []
+mhlv 3
+cblq 19
+wlcz 3
+cltt [ 'cblq', '*', 'wlcz' ] [ 57, 0 ] []
+gvfr [ 'mhlv', '*', 'cltt' ] [ 171, 0, 0 ] []
+rtmj [ 'vhst', '+', 'gvfr' ] [ 409, 0, 0 ] []
+dhnr 7
+cttm 5
+fnql 15
+hzdm [ 'cttm', '*', 'fnql' ] [ 75, 0 ] []
+qzjz [ 'dhnr', '+', 'hzdm' ] [ 82, 0 ] []
+mhwq [ 'rtmj', '+', 'qzjz' ] [ 491, 0, 0 ] []
+szvq 12
+qmpv 3
+jszl 2
+mrlv [ 'qmpv', '*', 'jszl' ] [ 6, 0 ] []
+zhbq [ 'szvq', '*', 'mrlv' ] [ 72, 0, 0 ] []
+bhdj 2
+wfft 10
+szzm 3
+nhjc 2
+ffzh 5
+frqp [ 'nhjc', '+', 'ffzh' ] [ 7 ] []
+rwlq [ 'szzm', '*', 'frqp' ] [ 21, 0 ] []
+gfmh [ 'wfft', '+', 'rwlq' ] [ 31, 0 ] []
+zfgz 13
+wcnv 2
+rtqb [ 'zfgz', '*', 'wcnv' ] [ 26, 0 ] []
+jzmw 2
+fzjv [ 'rtqb', '/', 'jzmw' ] [ 13, 0 ] []
+jmsj 5
+sdqd 3
+jftz [ 'jmsj', '*', 'sdqd' ] [ 15, 0 ] []
+jrjg [ 'fzjv', '+', 'jftz' ] [ 28, 0 ] []
+rvvr [ 'gfmh', '+', 'jrjg' ] [ 59, 0 ] []
+ccwp [ 'bhdj', '*', 'rvvr' ] [ 118, 0, 0 ] []
+cmtq 1
+qhzj 3
+jvtm 2
+gqqd [ 'qhzj', '*', 'jvtm' ] [ 6, 0 ] []
+mdwb 1
+plmq [ 'gqqd', '+', 'mdwb' ] [ 7, 0 ] []
+hzst 5
+wwzq [ 'plmq', '+', 'hzst' ] [ 12, 0 ] []
+qtzj [ 'cmtq', '+', 'wwzq' ] [ 13, 0 ] []
+nzqt 4
+hfqj 2
+bnch [ 'nzqt', '*', 'hfqj' ] [ 8, 0 ] []
+sczg 1
+zcvh [ 'bnch', '-', 'sczg' ] [ 7, 0 ] []
+zrwg [ 'qtzj', '*', 'zcvh' ] [ 91, 0, 0, 0 ] []
+hvgv [ 'ccwp', '+', 'zrwg' ] [ 209, 0, 0, 0 ] []
+chcd [ 'zhbq', '+', 'hvgv' ] [ 281, 0, 0, 0 ] []
+wctp 2
+mswf [ 'chcd', '*', 'wctp' ] [ 562, 0, 0, 0, 0 ] []
+hhdj 4
+zdch 12
+gzqn 8
+jrsl [ 'zdch', '*', 'gzqn' ] [ 96, 0 ] []
+ldhw 2
+rjgp [ 'jrsl', '/', 'ldhw' ] [ 48, 0 ] []
+vsjb 11
+qfmz [ 'rjgp', '-', 'vsjb' ] [ 37, 0 ] []
+bztq [ 'hhdj', '*', 'qfmz' ] [ 148, 0, 0 ] []
+zpmm 14
+jrjz 5
+gnzw [ 'zpmm', '+', 'jrjz' ] [ 19 ] []
+htjf [ 'bztq', '*', 'gnzw' ] [ 2812, 0, 0, 0 ] []
+scmp 2
+tqfz [ 'htjf', '/', 'scmp' ] [ 1406, 0, 0, 0 ] []
+lmrq 5
+jphs 5
+znhd [ 'lmrq', '*', 'jphs' ] [ 25, 0 ] []
+wsqj 16
+zfnd [ 'znhd', '*', 'wsqj' ] [ 400, 0, 0 ] []
+bmwg [ 'tqfz', '+', 'zfnd' ] [ 1806, 0, 0, 0 ] []
+wbqd [ 'mswf', '+', 'bmwg' ] [ 2368, 0, 0, 0, 0 ] []
+nfbf 11
+wwqj 14
+tphf [ 'nfbf', '*', 'wwqj' ] [ 154, 0 ] []
+qjdw 11
+zcvz 11
+wvrm 5
+whjj [ 'zcvz', '*', 'wvrm' ] [ 55, 0 ] []
+cqjr [ 'qjdw', '*', 'whjj' ] [ 605, 0, 0 ] []
+bphf [ 'tphf', '+', 'cqjr' ] [ 759, 0, 0 ] []
+tspc [ 'wbqd', '-', 'bphf' ] [ 1609, 0, 0, 0, 0 ] []
+tqtt [ 'mhwq', '*', 'tspc' ] [ 790019, 0, 0, 0, 0, 0, 0, 0 ] []
+wsmn 13
+mrph 14
+dqzz 2
+jrrl [ 'mrph', '/', 'dqzz' ] [ 7 ] []
+nmwd 14
+plhs 19
+bzmf 5
+gjcp [ 'plhs', '*', 'bzmf' ] [ 95, 0 ] []
+hnbc 5
+lzln 5
+zbgf [ 'hnbc', '*', 'lzln' ] [ 25, 0 ] []
+vhwm [ 'gjcp', '+', 'zbgf' ] [ 120, 0 ] []
+tqwr 17
+svdw 8
+blbv [ 'tqwr', '+', 'svdw' ] [ 25 ] []
+lvld 16
+wbnm [ 'blbv', '*', 'lvld' ] [ 400, 0 ] []
+dncd [ 'vhwm', '+', 'wbnm' ] [ 520, 0 ] []
+sdtt [ 'nmwd', '+', 'dncd' ] [ 534, 0 ] []
+dzhl 4
+jgzw 4
+slcj 2
+snvj [ 'jgzw', '*', 'slcj' ] [ 8, 0 ] []
+pzcn 3
+ngtl [ 'snvj', '*', 'pzcn' ] [ 24, 0, 0 ] []
+zvbm [ 'dzhl', '*', 'ngtl' ] [ 96, 0, 0, 0 ] []
+vvqd 1
+pqgj [ 'zvbm', '+', 'vvqd' ] [ 97, 0, 0, 0 ] []
+schv 5
+jfqt 2
+wzmn [ 'schv', '+', 'jfqt' ] [ 7 ] []
+mflg 6
+vcqv [ 'wzmn', '*', 'mflg' ] [ 42, 0 ] []
+hjvg [ 'pqgj', '+', 'vcqv' ] [ 139, 0, 0, 0 ] []
+grss [ 'sdtt', '+', 'hjvg' ] [ 673, 0, 0, 0 ] []
+vbld [ 'jrrl', '*', 'grss' ] [ 4711, 0, 0, 0, 0 ] []
+lrnn 1
+hfvn 15
+nqbg 2
+pndc [ 'hfvn', '*', 'nqbg' ] [ 30, 0 ] []
+ljnv 4
+ntcj 3
+mzbc [ 'ljnv', '*', 'ntcj' ] [ 12, 0 ] []
+jzpt [ 'pndc', '+', 'mzbc' ] [ 42, 0 ] []
+wbnl [ 'lrnn', '+', 'jzpt' ] [ 43, 0 ] []
+vczh 4
+vfpp 2
+jhjs [ 'vczh', '+', 'vfpp' ] [ 6 ] []
+nlrf [ 'wbnl', '*', 'jhjs' ] [ 258, 0, 0 ] []
+mdmw [ 'vbld', '+', 'nlrf' ] [ 4969, 0, 0, 0, 0 ] []
+mwvp 5
+hbqm 17
+jhzv [ 'mwvp', '*', 'hbqm' ] [ 85, 0 ] []
+fnsq 11
+sqgj [ 'jhzv', '*', 'fnsq' ] [ 935, 0, 0 ] []
+jnmm 3
+bplz 10
+czww [ 'jnmm', '*', 'bplz' ] [ 30, 0 ] []
+rjcz 5
+fqtp 17
+rlqw [ 'rjcz', '*', 'fqtp' ] [ 85, 0 ] []
+ngdb 5
+zmbj [ 'rlqw', '/', 'ngdb' ] [ 17, 0 ] []
+mpfw [ 'czww', '+', 'zmbj' ] [ 47, 0 ] []
+cgst [ 'sqgj', '+', 'mpfw' ] [ 982, 0, 0 ] []
+qwwz [ 'mdmw', '+', 'cgst' ] [ 5951, 0, 0, 0, 0 ] []
+pdrg [ 'wsmn', '*', 'qwwz' ] [ 77363, 0, 0, 0, 0, 0 ] []
+zdwz [ 'tqtt', '*', 'pdrg' ] [ 61118239897, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+vvnl [ 'htpc', '+', 'zdwz' ] [ 233634038719, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+tbcd 5
+qzzb [ 'vvnl', '*', 'tbcd' ] [ 1168170193595, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+cdvj [ 'sgbr', '*', 'qzzb' ] [ 17522552903925, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] []
+Data1: 38967687961994.1,-6.300000000000002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0^
+Data2: 17522552903925,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0^
+Solver: 21445135058069.1,-6.300000000000002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0^
+Constant: -3403989691756.9995
